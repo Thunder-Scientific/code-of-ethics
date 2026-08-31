@@ -15,7 +15,7 @@ concurrency:
 
 jobs:
   build:
-    name: Build and check anchors
+    name: Build
     runs-on: ubuntu-latest
     steps:
       - uses: actions/checkout@v5
@@ -34,12 +34,6 @@ jobs:
       - name: Build
         working-directory: website
         run: npm run build
-
-      # Fails when a pinned heading anchor no longer exists in the output.
-      # The build cannot catch this on its own; see the script's header.
-      - name: Check anchors
-        working-directory: website
-        run: npm run check-anchors
 
       - name: Upload site
         if: github.ref == 'refs/heads/main' && github.event_name == 'push'

@@ -3,7 +3,7 @@
 To avoid confusion between departments and/or test subjects, a card has been made with the acronyms and their meanings.
 The following acronyms have been explained to those who need the additional information or found themselves confused by them.
 
-### **Civilian Departments** {#civilian-departments}
+### **Civilian Departments**
 
 - RSD | Research & Studies
   - RSD Specialists
@@ -22,7 +22,7 @@ The following acronyms have been explained to those who need the additional info
 - FP | Facility Personnel
 - EC | Ethics Committee
 
-### **Security Forces** {#security-forces}
+### **Security Forces**
 
 - SD | Security Department
   - RECON | Recontainment Unit
@@ -34,13 +34,13 @@ The following acronyms have been explained to those who need the additional info
   - JU | Juggernaut Unit
   - HWYP | Highway Patrol
 
-### **Joint Security Forces** {#joint-security-forces}
+### **Joint Security Forces**
 
 - SET | Security Engineering Team
   - SD | Security Department
   - U&M | Utility & Maintenance
 
-### **Groups of Interest** {#groups-of-interest}
+### **Groups of Interest**
 
 - FDC | Fort Defense Company
   - Combat Medical Branch
@@ -49,7 +49,7 @@ The following acronyms have been explained to those who need the additional info
   - CBRN
   - Scout Snipers
 
-### **Neutrals** {#neutrals}
+### **Neutrals**
 
 - TS | Test Subject
   - TSE | Test Subject Enclave
@@ -58,14 +58,14 @@ The following acronyms have been explained to those who need the additional info
 - CIS | Contained Infected Subject
 - IS | Infected Subject
 
-### **Administrative** {#administrative}
+### **Administrative**
 
 - AD | Administrative Department
   - DA | Department Administrator
   - DS | Department Secretary
 - ISB | Internal Security Bureau
 
-### **Miscellaneous** {#miscellaneous}
+### **Miscellaneous**
 
 - Off-duty | In-game Moderation Team
 - Site Engineer | Game Developers
@@ -76,7 +76,7 @@ The following acronyms have been explained to those who need the additional info
 
 ---
 
-### **Locations** {#locations}
+### **Locations**
 
 - S1 | Sector 1
 - S2 | Sector 2
@@ -96,27 +96,27 @@ The following acronyms have been explained to those who need the additional info
 
 ---
 
-### **Security Chain of Authority** {#security-chain-of-authority}
+### **Security Chain of Authority**
 
-#### **Code Green/Blue:** {#code-green-blue}
+#### **Code Green/Blue:**
 
 SD
 RECON
 SO
 
-#### **Code Red:** {#code-red}
+#### **Code Red:**
 
 SO
 RECON
 SD
 
-#### **Code GAMMA:** {#code-gamma}
+#### **Code GAMMA:**
 
 SO
 RECON
 SD
 
-#### **Code EPSILON+:** {#code-epsilon}
+#### **Code EPSILON+:**
 
 SO
 RECON
