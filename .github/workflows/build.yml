@@ -1,0 +1,35 @@
+# Reusable build. Not triggered directly — called by pr.yml and deploy.yml.
+name: Build site
+
+on:
+  workflow_call:
+
+permissions:
+  contents: read
+
+jobs:
+  build:
+    name: Build
+    runs-on: self-hosted
+    steps:
+      - uses: actions/checkout@v5
+
+      - uses: actions/setup-node@v5
+        with:
+          node-version: 22
+          cache: npm
+          cache-dependency-path: website/package-lock.json
+
+      - name: Install
+        working-directory: website
+        run: npm ci
+
+      # Fails on broken links, broken anchors in links, and unresolvable images.
+      - name: Build
+        working-directory: website
+        run: npm run build
+
+      - name: Upload site
+        uses: actions/upload-pages-artifact@v5
+        with:
+          path: website/build
