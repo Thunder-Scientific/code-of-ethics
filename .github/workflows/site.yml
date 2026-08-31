@@ -10,13 +10,15 @@ permissions:
   contents: read
 
 concurrency:
-  group: site-${{ github.ref }}
-  cancel-in-progress: false
+
 
 jobs:
   build:
     name: Build
-    runs-on: [self-hosted, Linux, X64]
+    runs-on: self-hosted
+    concurrency:
+      group: site-${{ github.ref }}-build
+      cancel-in-progress: true
     steps:
       - uses: actions/checkout@v5
 
@@ -45,7 +47,9 @@ jobs:
     name: Deploy to Pages
     if: github.ref == 'refs/heads/main' && github.event_name == 'push'
     needs: build
-    runs-on: ubuntu-latest
+    runs-on: self-hosted
+    concurrency:
+      group: site-${{ github.ref }}-deploy
     permissions:
       pages: write
       id-token: write
