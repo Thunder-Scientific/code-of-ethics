@@ -7,8 +7,8 @@ const config = {
   tagline: 'Thunder Scientific Corporation',
   favicon: 'img/favicon.ico',
 
-  url: 'https://thunder-scientific.github.io',
-  baseUrl: '/code-of-ethics/',
+  url: 'https://coe.thunderscientific.org',
+  baseUrl: '/',
   organizationName: 'Thunder-Scientific',
   projectName: 'code-of-ethics',
 
