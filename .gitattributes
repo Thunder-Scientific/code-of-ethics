@@ -1,0 +1,8 @@
+# Pages CMS commits through the GitHub API, which writes LF. Normalising here
+# keeps a CMS edit from rewriting every line of a file it barely touched.
+* text=auto eol=lf
+
+*.png binary
+*.jpg binary
+*.jpeg binary
+*.ico binary

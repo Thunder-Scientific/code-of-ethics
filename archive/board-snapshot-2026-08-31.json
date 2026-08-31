@@ -1,0 +1,1536 @@
+{
+ "id": "6278016ad203c450e705e18f",
+ "name": "TSC Code of Ethics",
+ "desc": "",
+ "shortUrl": "https://trello.com/b/dxQGXqY1",
+ "lists": [
+  {
+   "id": "6278016ad203c450e705e190",
+   "name": "About the Code of Ethics",
+   "closed": false,
+   "color": null,
+   "idBoard": "6278016ad203c450e705e18f",
+   "pos": 65535,
+   "subscribed": null,
+   "softLimit": null,
+   "type": null,
+   "datasource": {
+    "filter": false
+   },
+   "creationMethod": null,
+   "idOrganization": "601498d7bd7d673921ca684c",
+   "limits": {
+    "cards": {
+     "openPerList": {
+      "status": "ok",
+      "disableAt": 5000,
+      "warnAt": 4000
+     },
+     "totalPerList": {
+      "status": "ok",
+      "disableAt": 1000000,
+      "warnAt": 800000
+     }
+    }
+   },
+   "nodeId": "ari:cloud:trello::list/workspace/601498d7bd7d673921ca684c/6278016ad203c450e705e190"
+  },
+  {
+   "id": "6278016ad203c450e705e191",
+   "name": "Section A",
+   "closed": false,
+   "color": null,
+   "idBoard": "6278016ad203c450e705e18f",
+   "pos": 131071,
+   "subscribed": null,
+   "softLimit": null,
+   "type": null,
+   "datasource": {
+    "filter": false
+   },
+   "creationMethod": null,
+   "idOrganization": "601498d7bd7d673921ca684c",
+   "limits": {
+    "cards": {
+     "openPerList": {
+      "status": "ok",
+      "disableAt": 5000,
+      "warnAt": 4000
+     },
+     "totalPerList": {
+      "status": "ok",
+      "disableAt": 1000000,
+      "warnAt": 800000
+     }
+    }
+   },
+   "nodeId": "ari:cloud:trello::list/workspace/601498d7bd7d673921ca684c/6278016ad203c450e705e191"
+  },
+  {
+   "id": "6278016ad203c450e705e192",
+   "name": "Section B",
+   "closed": false,
+   "color": null,
+   "idBoard": "6278016ad203c450e705e18f",
+   "pos": 196607,
+   "subscribed": null,
+   "softLimit": null,
+   "type": null,
+   "datasource": {
+    "filter": false
+   },
+   "creationMethod": null,
+   "idOrganization": "601498d7bd7d673921ca684c",
+   "limits": {
+    "cards": {
+     "openPerList": {
+      "status": "ok",
+      "disableAt": 5000,
+      "warnAt": 4000
+     },
+     "totalPerList": {
+      "status": "ok",
+      "disableAt": 1000000,
+      "warnAt": 800000
+     }
+    }
+   },
+   "nodeId": "ari:cloud:trello::list/workspace/601498d7bd7d673921ca684c/6278016ad203c450e705e192"
+  },
+  {
+   "id": "6278016ad203c450e705e193",
+   "name": "Section C",
+   "closed": false,
+   "color": null,
+   "idBoard": "6278016ad203c450e705e18f",
+   "pos": 262143,
+   "subscribed": null,
+   "softLimit": null,
+   "type": null,
+   "datasource": {
+    "filter": false
+   },
+   "creationMethod": null,
+   "idOrganization": "601498d7bd7d673921ca684c",
+   "limits": {
+    "cards": {
+     "openPerList": {
+      "status": "ok",
+      "disableAt": 5000,
+      "warnAt": 4000
+     },
+     "totalPerList": {
+      "status": "ok",
+      "disableAt": 1000000,
+      "warnAt": 800000
+     }
+    }
+   },
+   "nodeId": "ari:cloud:trello::list/workspace/601498d7bd7d673921ca684c/6278016ad203c450e705e193"
+  },
+  {
+   "id": "6278016ad203c450e705e194",
+   "name": "Section D",
+   "closed": false,
+   "color": null,
+   "idBoard": "6278016ad203c450e705e18f",
+   "pos": 327679,
+   "subscribed": null,
+   "softLimit": null,
+   "type": null,
+   "datasource": {
+    "filter": false
+   },
+   "creationMethod": null,
+   "idOrganization": "601498d7bd7d673921ca684c",
+   "limits": {
+    "cards": {
+     "openPerList": {
+      "status": "ok",
+      "disableAt": 5000,
+      "warnAt": 4000
+     },
+     "totalPerList": {
+      "status": "ok",
+      "disableAt": 1000000,
+      "warnAt": 800000
+     }
+    }
+   },
+   "nodeId": "ari:cloud:trello::list/workspace/601498d7bd7d673921ca684c/6278016ad203c450e705e194"
+  },
+  {
+   "id": "6278016ad203c450e705e195",
+   "name": "Section E",
+   "closed": false,
+   "color": null,
+   "idBoard": "6278016ad203c450e705e18f",
+   "pos": 360447,
+   "subscribed": null,
+   "softLimit": null,
+   "type": null,
+   "datasource": {
+    "filter": false
+   },
+   "creationMethod": null,
+   "idOrganization": "601498d7bd7d673921ca684c",
+   "limits": {
+    "cards": {
+     "openPerList": {
+      "status": "ok",
+      "disableAt": 5000,
+      "warnAt": 4000
+     },
+     "totalPerList": {
+      "status": "ok",
+      "disableAt": 1000000,
+      "warnAt": 800000
+     }
+    }
+   },
+   "nodeId": "ari:cloud:trello::list/workspace/601498d7bd7d673921ca684c/6278016ad203c450e705e195"
+  },
+  {
+   "id": "6278016ad203c450e705e196",
+   "name": "Section F",
+   "closed": false,
+   "color": null,
+   "idBoard": "6278016ad203c450e705e18f",
+   "pos": 368639,
+   "subscribed": null,
+   "softLimit": null,
+   "type": null,
+   "datasource": {
+    "filter": false
+   },
+   "creationMethod": null,
+   "idOrganization": "601498d7bd7d673921ca684c",
+   "limits": {
+    "cards": {
+     "openPerList": {
+      "status": "ok",
+      "disableAt": 5000,
+      "warnAt": 4000
+     },
+     "totalPerList": {
+      "status": "ok",
+      "disableAt": 1000000,
+      "warnAt": 800000
+     }
+    }
+   },
+   "nodeId": "ari:cloud:trello::list/workspace/601498d7bd7d673921ca684c/6278016ad203c450e705e196"
+  },
+  {
+   "id": "6278016ad203c450e705e197",
+   "name": "Section G",
+   "closed": false,
+   "color": null,
+   "idBoard": "6278016ad203c450e705e18f",
+   "pos": 376831,
+   "subscribed": null,
+   "softLimit": null,
+   "type": null,
+   "datasource": {
+    "filter": false
+   },
+   "creationMethod": null,
+   "idOrganization": "601498d7bd7d673921ca684c",
+   "limits": {
+    "cards": {
+     "openPerList": {
+      "status": "ok",
+      "disableAt": 5000,
+      "warnAt": 4000
+     },
+     "totalPerList": {
+      "status": "ok",
+      "disableAt": 1000000,
+      "warnAt": 800000
+     }
+    }
+   },
+   "nodeId": "ari:cloud:trello::list/workspace/601498d7bd7d673921ca684c/6278016ad203c450e705e197"
+  },
+  {
+   "id": "6278016ad203c450e705e198",
+   "name": "Section H",
+   "closed": false,
+   "color": null,
+   "idBoard": "6278016ad203c450e705e18f",
+   "pos": 458751,
+   "subscribed": null,
+   "softLimit": null,
+   "type": null,
+   "datasource": {
+    "filter": false
+   },
+   "creationMethod": null,
+   "idOrganization": "601498d7bd7d673921ca684c",
+   "limits": {
+    "cards": {
+     "openPerList": {
+      "status": "ok",
+      "disableAt": 5000,
+      "warnAt": 4000
+     },
+     "totalPerList": {
+      "status": "ok",
+      "disableAt": 1000000,
+      "warnAt": 800000
+     }
+    }
+   },
+   "nodeId": "ari:cloud:trello::list/workspace/601498d7bd7d673921ca684c/6278016ad203c450e705e198"
+  },
+  {
+   "id": "6278016ad203c450e705e199",
+   "name": "Section I",
+   "closed": false,
+   "color": null,
+   "idBoard": "6278016ad203c450e705e18f",
+   "pos": 491519,
+   "subscribed": null,
+   "softLimit": null,
+   "type": null,
+   "datasource": {
+    "filter": false
+   },
+   "creationMethod": null,
+   "idOrganization": "601498d7bd7d673921ca684c",
+   "limits": {
+    "cards": {
+     "openPerList": {
+      "status": "ok",
+      "disableAt": 5000,
+      "warnAt": 4000
+     },
+     "totalPerList": {
+      "status": "ok",
+      "disableAt": 1000000,
+      "warnAt": 800000
+     }
+    }
+   },
+   "nodeId": "ari:cloud:trello::list/workspace/601498d7bd7d673921ca684c/6278016ad203c450e705e199"
+  },
+  {
+   "id": "6278016ad203c450e705e19a",
+   "name": "Section Δ",
+   "closed": true,
+   "color": null,
+   "idBoard": "6278016ad203c450e705e18f",
+   "pos": 524287,
+   "subscribed": null,
+   "softLimit": null,
+   "type": null,
+   "datasource": {
+    "filter": false
+   },
+   "creationMethod": null,
+   "idOrganization": "601498d7bd7d673921ca684c",
+   "limits": {
+    "cards": {
+     "openPerList": {
+      "status": "ok",
+      "disableAt": 5000,
+      "warnAt": 4000
+     },
+     "totalPerList": {
+      "status": "ok",
+      "disableAt": 1000000,
+      "warnAt": 800000
+     }
+    }
+   },
+   "nodeId": "ari:cloud:trello::list/workspace/601498d7bd7d673921ca684c/6278016ad203c450e705e19a"
+  }
+ ],
+ "cards": [
+  {
+   "id": "6278016ad203c450e705e1e3",
+   "closed": false,
+   "dateLastActivity": "2022-05-08T17:44:11.594Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e190",
+   "name": "Information",
+   "pos": 32767.5,
+   "shortUrl": "https://trello.com/c/54pLCmSS",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e1df",
+   "closed": false,
+   "dateLastActivity": "2022-05-13T19:21:07.631Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e190",
+   "name": "𝒞𝑜𝒹𝑒 𝑜𝒻 𝐸𝓉𝒽𝒾𝒸𝓈",
+   "pos": 65535,
+   "shortUrl": "https://trello.com/c/J3VbUtGg",
+   "attachments": [
+    {
+     "id": "6278016bd203c450e705e468",
+     "bytes": 14284,
+     "mimeType": "image/png",
+     "name": "EC_TSC.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e1df/attachments/6278016bd203c450e705e468/download/EC_TSC.png"
+    }
+   ]
+  },
+  {
+   "id": "6278016ad203c450e705e1e7",
+   "closed": false,
+   "dateLastActivity": "2026-03-15T00:03:14.705Z",
+   "desc": "# Welcome to the Code of Ethics\n\nThe Code of Ethics (often abbreviated to CoE) is a ruleset written and maintained by the Thunder Scientific Corporation Ethics Committee. It serves as the base rules and as a standard to uphold for all personnel in the Corporation.\nTo ensure a lack of bias and fair punishment, **all personnel, with the sole exception of the Administrator, are subject to the Code of Ethics at all times, unless in terms which apply to their job.**\n\nThe Code was created by the Ethics Committee to ensure the Corporation would not fall into chaos and distrust despite the challenging and uncertain circumstances it survives in. TSC must remain strong, for humanity's sake.",
+   "idList": "6278016ad203c450e705e190",
+   "name": "Introduction",
+   "pos": 196607,
+   "shortUrl": "https://trello.com/c/7bJK7vVH",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e1ef",
+   "closed": true,
+   "dateLastActivity": "2022-05-24T17:13:38.427Z",
+   "desc": "CoE Index\n===\n\nSection A\n---\nBehavioural Regulations\n\nSection B\n---\nOn-Site Policies\n\nSection C\n---\nHealth & Safety Legislation\n\nSection D\n---\nInmate Handling & Experimentation Procedures\n\nSection E\n---\nAdditional Regulations\n\nSection F\n---\nAbuse & Misconduct\n\nSection G\n---\nCode Approval & Validation\n",
+   "idList": "6278016ad203c450e705e190",
+   "name": "Index",
+   "pos": 262143,
+   "shortUrl": "https://trello.com/c/8A74r618",
+   "attachments": []
+  },
+  {
+   "id": "6338d539ec0f77032ef3fc2e",
+   "closed": false,
+   "dateLastActivity": "2026-08-01T05:27:16.882Z",
+   "desc": "To avoid confusion between departments and/or test subjects, a card has been made with the acronyms and their meanings.\nThe following acronyms have been explained to those who need the additional information or found themselves confused by them.\n\n### **Civilian Departments**\n\n- RSD | Research & Studies\n  - RSD Specialists\n  - RSD Botanists\n- U&M | Utility & Maintenance\n  - Subservient Branch\n    - Chef\n    - Strongmen\n    - Butler\n    - Conductor\n  - TTS | Technical Task Squad (Hazmat Unit)\n- MD | Medical Department\n  - PB | Psychology Branch\n  - VP | Veterinarian Program\n  - CM | Combat Medics\n- FP | Facility Personnel\n- EC | Ethics Committee\n\n### **Security Forces**\n\n- SD | Security Department\n  - RECON | Recontainment Unit\n    - RAH | Recon Assets and Handlers\n  - SO | Special Operations\n    - Kilo-16\n    - Nova-6\n    - Iatric-5\n  - JU | Juggernaut Unit\n  - HWYP | Highway Patrol\n\n### **Joint Security Forces**\n\n- SET | Security Engineering Team\n  - SD | Security Department\n  - U&M | Utility & Maintenance\n\n### **Groups of Interest**\n\n- FDC | Fort Defense Company\n  - Combat Medical Branch\n  - Central Complaints Branch\n- OS | Outpost Superior (Also known as BC | Bayonet Company)\n  - CBRN\n  - Scout Snipers\n\n### **Neutrals**\n\n- TS | Test Subject\n  - TSE | Test Subject Enclave\n  - HRTS | High Reputation Test Subject\n- CIV | Civilians\n- CIS | Contained Infected Subject\n- IS | Infected Subject\n\n### **Administrative**\n\n- AD | Administrative Department\n  - DA | Department Administrator\n  - DS | Department Secretary\n- ISB | Internal Security Bureau\n\n### **Miscellaneous**\n\n- Off-duty | In-game Moderation Team\n- Site Engineer | Game Developers\n  - QA | Quality Assurance\n  - Manufacturing Department\n- Solitary Confinement | Punishment team\n- CIS Solitary | Punishment team\n\n---\n\n### **Locations**\n\n- S1 | Sector 1\n- S2 | Sector 2\n- S3 | Sector 3\n- S4 | Sector 4\n- U1 | Unit 1\n- U2 | Unit 2\n- U2-B | Unit 2-B\n- U3 | Unit 3\n- U4 | Unit 4\n- CTZ | Containment Zone (Sector 3)\n- TSCZ | Test Subject Containment Zone\n- CISCZ | Contained Infected Subject Containment Zone (Unit 3)\n- PS | Panic Shelter\n- BM | Black Market\n- SC | Solitary Confinement\n\n---\n\n### **Security Chain of Authority**\n\n#### **Code Green/Blue:**\n\nSD\nRECON\nSO\n\n#### **Code Red:**\n\nSO\nRECON\nSD\n\n#### **Code GAMMA:**\n\nSO\nRECON\nSD\n\n#### **Code EPSILON+:**\n\nSO\nRECON\nSD\n\n---\n\n- The Special Operations has full authority over Unit 4 breaches and U4/Mass tests during all codes.\n- RECON has full authority over Normal Infected Breaches and Base Tests during all codes.\n- SO has full authority over Riots and Raids during all codes.\n- SD has full authority over normal facility operations.\n\n---\n\nThe phrase “ 10-2 “ is recognized as the official “ kill me “ phrase in Thunder Scientific Corporation. Anyone requesting it can be terminated freely by anyone at any circumstance without any consequence. Test subjects killing personnel requesting 10-2 are not deemed hostile as by D1.",
+   "idList": "6278016ad203c450e705e190",
+   "name": "General Information",
+   "pos": 294911,
+   "shortUrl": "https://trello.com/c/9X3YAyVf",
+   "attachments": []
+  },
+  {
+   "id": "6510c73908a32e604a171bdf",
+   "closed": false,
+   "dateLastActivity": "2026-06-24T01:14:30.153Z",
+   "desc": "Several civil departments have been authorized to perform a Site Event as part of their departmental duties. These events are largely regulated by their respective department and typically involve a controlled event that interacts with at least 1 subject or site personnel. Event hosts are offered certain authority while conducting a Site Event as per section E in order to aide them in a successfully completed event. Mass events may have multiple hosts.\n\n### **Internal Departments and their Site Events**\n\n- Research & Studies Department\n  - Scientific testing events on subjects and/or personnel\n    - Scientific testing events on subjects and/or personnel using specialized scientific equipment or sectors\n- Medical Department\n  - Medical checkups on subjects and/or personnel\n  - Medical testing on subjects and/or personnel\n- Ethics Committee\n  - Interview events with subjects and/or personnel\n  - Site tour events with subjects",
+   "idList": "6278016ad203c450e705e190",
+   "name": "Site Events",
+   "pos": 319487,
+   "shortUrl": "https://trello.com/c/PUyYeybw",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e1e1",
+   "closed": true,
+   "dateLastActivity": "2022-05-13T19:20:54.675Z",
+   "desc": "11/20/21:\n\n- Added more info to D2\n- Removed emojis\n- Added F1\n- Updated C3\n- Updated D2\n- Added F2\n- Added F3\n\n11/21/21:\n\n- Added B4\n- Added A3\n\n11/22/21:\n\n- Updated F1\n- Fixed cover mistakes\n\n11/23/21\n\n- Changed signature descriptions",
+   "idList": "6278016ad203c450e705e190",
+   "name": "Updates",
+   "pos": 327679,
+   "shortUrl": "https://trello.com/c/vQGTvttF",
+   "attachments": []
+  },
+  {
+   "id": "649972854892604500d857b5",
+   "closed": false,
+   "dateLastActivity": "2026-01-02T08:51:36.270Z",
+   "desc": "The purpose of this section is to serve as information regarding the combatant status of TSC personnel when they are deployed on a certain department, as well as the combatant status of GoI members when they are operating on-site. This is a general basis which departments go off from, they can stray away from it but must stay reasonable for their changes.\n\nThe following sections will explain all positions which personnel are assigned when deployed on a specific team or department. Any exceptions for subdivisions (like the Technical Task Squad) will be listed and explained in detail in this section as well.\n\n**Combatant**\n\nAll personnel which possess the status of being a combatant are site security personnel and are expected to respond to any and all threats on-site to protect civil personnel. They may engage hostiles freely as long as the criteria is met to do so.\n\nThe following list of departments, Groups of Interest are deemed Combatant:\n\n- Security Department\n- Combat Medics\n- Technical Task Squad are considered full combatants but may only act as such in S1 and CTZ. Additionally, TTS may act as full combatants in S2 under the conditions listed within their handbook: [https://trello.com/c/nmYUka9k/65-1-4-sector-permissions](https://trello.com/c/nmYUka9k/65-1-4-sector-permissions \"smartCard-inline\")\n- Security Engineering Team (SET)\n- Recontainment Unit (Asset Handlers)\n- RAH (Assets)\n- Special Operations\n- Juggernaut Unit\n\n**Semi-Combatant**\n\nAll personnel which possess the status of being a Semi-Combative are defensive personnel which only engage hostiles in protection of others and themselves. This status is mostly given to intelligence personnel.\n\nWhile Semi-Combatants are to stay defensive, if a situation gets out of hand and the site is deemed in high danger (Code RED+ and specified scenarios in the respective entity with EC approval) they may elevate to combatant status to assist combatants.\n\nSemi-Combatants follow the same regulations in engagement with hostiles outside of their combatant status, however they may chase down any hostile which poses a threat and/or engaged with them to terminate them.\n\nSemi-Combatants may freely terminate disguised personnel for the duty of internal security on-site.\n\nThe following list of departments, Groups of Interest are deemed Semi-Combatants:\n\n- Internal Security Bureau\n  - ISB have their own written regulations regarding their combatant status. This can be found on their Master Guidelines.\n- Ethics Committee Rogue Response\n- Highway Patrol\n\nSemi-combatants may not participate in hostile raids. (Unless the department/division has gotten permission from the hostile group to engage in raids.)\n\n**Non-Combatant**\n\nAll personnel which possess the status of being a non-combatant are civil personnel which may only engage hostiles for self-defense of themselves or other non-combatant personnel as stated in section B3 of the Code of Ethics.\n\nThe following list of departments, Groups of Interest are deemed non-combatant:\n\n- Research & Studies\n- Medical Department\n- Utility & Maintenance\n- RAH Assets are an extension of RECON and work together with assigned handlers to deal with breaches and protection of CTZ. The default state of assets is to be non-combative in CTZ and only attack hostiles if they enter specimen chambers or are engaged by hostiles. If an Asset is paired with a handler, they gain full combative status.\n- Utility & Maintenance Specialized Branch\n- External Relations\n- Ethics Committee\n- Facility Personnel\n- Administrative Department\n- Manufacturing Department teams (Site Engineer, Quality Assurance, etc.)\n\nHostile Groups of Interest may go on peacekeeping to become neutral with TSC for a certain amount of time. Whenever peacekeeping is in effect, their units are to follow the Code of Ethics and refer to this page for information regarding their on-site combatant status. Hostile GoI units which can go on peacekeeping are marked with a * at the end of the unit's name. Hostile GoI members who are deployed to bodyguard non-combatant members of their own GoI are assigned semi-combatant status. For the time they are deployed on-site, they are to follow the Code of Ethics and to be considered non-hostile.",
+   "idList": "6278016ad203c450e705e190",
+   "name": "Combatant Status",
+   "pos": 344063,
+   "shortUrl": "https://trello.com/c/EwmjdadO",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e1e5",
+   "closed": false,
+   "dateLastActivity": "2022-05-08T17:44:11.085Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e190",
+   "name": "Key",
+   "pos": 393215,
+   "shortUrl": "https://trello.com/c/w4ppRskd",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e241",
+   "closed": false,
+   "dateLastActivity": "2022-05-08T17:44:11.108Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e191",
+   "name": "Behavioural Regulations",
+   "pos": 32767.5,
+   "shortUrl": "https://trello.com/c/pByc8HBU",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e1f3",
+   "closed": false,
+   "dateLastActivity": "2025-03-29T05:42:01.494Z",
+   "desc": "All corporation personnel are expected to treat anyone with due respect at all times. All individuals, human, post-human, and deceased must be treated with a certain level of respect that one would expect others to owe them.\n\nCertain behaviors are required to include the following:\n\n- Personnel may not harass other individuals by [Roblox's Terms of Service,](https://en.help.roblox.com/hc/en-us/articles/115004647846-Roblox-Terms-of-Use \"‌\") these are defined by repeated actions that meet the listed criteria as violating Roblox's Terms of Service.\n- Personnel must refrain from insulting or slandering individuals or groups by Roblox's Terms of Service\n- Personnel must not discriminate against individuals based on religion, gender, race, sexual orientation, disability, national origin, or any other protected personal identifying information by Roblox terms of service.\n- Personnel are expected to follow the [Roblox Community Guidelines](https://en.help.roblox.com/hc/en-us/articles/203313410-Roblox-Community-Standards \"‌\") and breaches of such guidelines are liable for infractions in addition to moderator actions.\n- Personnel must show respect to the corpses of the deceased by not defiling or disrespecting the body of the deceased.\n- Personnel should not participate in behavior that may be disruptive to other personnel's departmental duties.\n\nAdditional rules also apply to ensure the Corporation's site remains respectable, clean, and professional at all times for all individuals involved.\n\n- Personnel should not hold long arguments or sensitive conversations in populated areas especially when it disrupts gameplay or site events.\n- Personnel should avoid playing loud, irritating, or inappropriate/bypassed audio. You can play semi-loud music with the radio, but if the audio is too loud you should not play it.\n- Personnel should take care to respect the personal space of others by not climbing, mounting, entering, or coming uncomfortably close to any person after being told to stop.\n\nEnglish is recommended as the official language for personnel on site and are liable to any difficulties of communication should any other language be used.",
+   "idList": "6278016ad203c450e705e191",
+   "name": "Rule A1 | On-Site Behaviour",
+   "pos": 131071,
+   "shortUrl": "https://trello.com/c/hpIft5HE",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e213",
+   "closed": false,
+   "dateLastActivity": "2024-05-31T16:33:34.228Z",
+   "desc": "The Corporation has a zero-tolerance policy for the distribution or discussion of media that includes, references, or otherwise mentions subjects or topics of a mature nature. These contents are not limited to:\n\n- Any media and/or action referring to sexual content in any way.\n  - This includes ramming, which will not be taken as a joke and will result in an instant infraction.\n- Depictions and/or support for terrorist or extremist attacks/groups.\n- Describing methods for suicide/self-harm, or motivating it seriously.\n- Referring users to any harmful content/gore, or talking about the topics of such.\n\nEngaging in any of the following activities may result in a minimum of a 1-week suspension or an exile depending on severity, and/or further action taken by the in-game moderation team.\n\nNote: All of these regulations should be followed by the Roblox Community Guidelines.",
+   "idList": "6278016ad203c450e705e191",
+   "name": "Rule A2 | Banned Topics",
+   "pos": 196607,
+   "shortUrl": "https://trello.com/c/AorF6LJs",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e1f9",
+   "closed": true,
+   "dateLastActivity": "2024-05-31T16:32:26.793Z",
+   "desc": "It is strictly forbidden to perform the following actions on site by any personnel. Being caught doing any of the following will result in severe consequences:\n\n- Engaging in ERP/Intercourse.\n- Heavily referencing sexual actions, phrases, words, or conduct.\n- Sexually harassing any other individual.",
+   "idList": "6278016ad203c450e705e191",
+   "name": "Rule A3 | Intercourse Ban",
+   "pos": 262143,
+   "shortUrl": "https://trello.com/c/wzKtB3lG",
+   "attachments": []
+  },
+  {
+   "id": "65b6d5502fcaa26761cf3cbd",
+   "closed": true,
+   "dateLastActivity": "2024-05-31T16:32:28.410Z",
+   "desc": "All personnel have at their disposal a handheld radio which can be used to effectively communicate with other personnel across the facility.\n\nDue to these portable radios being very valuable for communication, they have a set of rules when it come to using them to ensure they are used effectively.\n\nWhen using radios, you are expected to follow all behavioral, in-game, and Roblox ToS rules as with standard communication.\n\nRadios also have their own set of additional rules:\n\n- You may not spam the radios with unnecessary messages\n- You may not use the ping feature ( ex. \\@‌everyone ) for unnecessary messages. This is reserved for important messages only.\n  - How the ping feature works is if you very specifically type out a teams name, it makes your text yellow for them and provides an alert noise. Example: “ \\@‌Recontainment Unit There is a breach in S2 “ would be yellow for RECON, allowing them to see it easier.\n- You may not provide misinformation or lies on the radio, if you are unsure about something make sure to state so.\n\nThere are also certain channels available for certain departments. You may only use said channels for their designed purpose.\n\nCombative channels are to speak about emergencies, callouts, site state, etc… without non-combative personnel seeing the messages. Make sure any important site security operations are done on these channels so that it remains focused.\n\nStaff channels are there to communicate with each other about their duties on site and is typically reserved for coordinating site events.\n\nThe Global channel is a channel where you can speak freely about anything.\n\n**IF THE RADIOS ARE BROKEN AND CHANNELS DON’T WORK PROPERLY, YOU MAY IGNORE THE PART ABOVE.**",
+   "idList": "6278016ad203c450e705e191",
+   "name": "Rule A4 | Radio Regulations",
+   "pos": 327679,
+   "shortUrl": "https://trello.com/c/ou90pUof",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e1f7",
+   "closed": false,
+   "dateLastActivity": "2022-05-08T17:44:11.511Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e192",
+   "name": "On-Site Policies",
+   "pos": 65535,
+   "shortUrl": "https://trello.com/c/xSUc54US",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e23f",
+   "closed": false,
+   "dateLastActivity": "2026-08-06T17:03:50.873Z",
+   "desc": "Personnel may not enter areas their security clearance does not permit them for, unless escorted by an authorized individual with valid reasoning. Some areas, which are usually marked, may have more specific requirements for when personnel are permitted to enter them. These areas are the following:\n\n### Unit 4\n\nUnit 4 of the CTZ is a checkpoint that personnel whitelisted by JU may only enter inside with valid reasoning. Anyone who is within the U4 checkpoint or containment without proper authorization may be terminated or cuffed out at the discretion of JU operatives.\n\nThe following personnel may enter the Unit 4 checkpoint:\n\n- ISB\n- AD Administrative Intern+\n- SD Department Secretary+\n- SO\n- JU Captain+ on any allied team.\n- EC Board Member+ only when spectating a U4 test.\n\nThese personnel may freely roam the checkpoint. Any personnel who disrupt the operation of the checkpoint may be forced out of the checkpoint at the discretion of the personnel operating the checkpoint. JU operatives may order these personnel away from the area if they want to.\n\nThe following personnel are whitelisted to enter Unit 4 but need valid reasoning to enter the checkpoint:\n\n- RECON Junior Operative+ when conducting duties.\n- RSD Specialists Beginner Specialist+ when hosting or spectating Unit 4 tests.\n- Level-5+ Personnel that are not on the Facility Personnel team.\n- SET (Specialist Architect+) May guard the U4 checkpoint following their internal regulations\n- RAH MR+ may guard the U4 checkpoint whilst paired, following their internal regulations\n\nIn addition to the list above, the Juggernaut Unit have a public spread-sheet to keep track individual whitelists/blacklists along with specifics regarding groups' permissions within Unit 4.\n[https://docs.google.com/spreadsheets/d/1PaayMCiBx73YBqZtWiffUvHeDtlzoaBryQGR_utiU_w/edit?gid=0#gid=0](https://docs.google.com/spreadsheets/d/1PaayMCiBx73YBqZtWiffUvHeDtlzoaBryQGR_utiU_w/edit?gid=0#gid=0 \"smartCard-inline\")\nIf a user is listed under the “Blacklisted” roster, they are not to enter U4 or else they can be met with a B1 infraction for violating their blacklist.\n\nGroup of Interests are blacklisted from entering Unit 4 entirely and may only enter with the authorization of a JU Lieutenant.\n\nRAH assets are blacklisted from entry by default, and may only enter briefly for sweeping if they have a Handler that they are paired with. They may not enter regardless if there is a suspected or confirmed breach of Specimen 239. Handlers may enter under the same regulation as standard RECON.\n\nSpecial Operations may go on the U4 checkpoint to deal with hostiles if there are no other specialized forces responding.\n\nJU Operatives may authorize combatant personnel into Unit 4 following their internal regulations. Special Operations Corporal+ may also authorize combatives into Unit 4 for valid reasons, however JU may override this anytime.\n\n‌\n\n### Central Facility Mainframe (CFM)\n\nThe CFM is heavily restricted, and guarded by Special Operation or Juggernaut Unit members. Any personnel found within the CFM, that has not had authorization, is allowed to be killed on-sight.\n\nWhitelisted personnel:\n\n- ISB\n- AD Administrative Intern+\n- SD Department Secretary+\n- SO\n- JU Captain+ on any allied team.\n- Recontainment unit may freely access CFM up to the checkpoint (second garage door)\n- SET (Specialist Architect+) may also access CFM up to the checkpoint in order to grab building props for fortifying the U4 checkpoint, they may not loiter\n\nIf the tamper protection has sent out an alert, or the CFM flag has been captured, only whitelisted and the following combatives may respond;\n\n- Recontainment Unit\n- Security Department SHR+\n\nJuggernaut Unit’s Operator+ may authorize any other combatives into the CFM if there has been a triggered heist or a flag has been capped. In the event of a radiation breach within the CFM, TTS (Fumigator+) are permitted to enter up to outer CFM (includes bridge).\nAdditionally, SD SHR+ may authorize other combatives into CFM if JU or SO do not respond within **10 minutes** to heists or flag captures.\n\nIf there has **not** been a trigger and hostiles are present, only whitelisted combatives are allowed to handle it. During that time, members of Special Operations and Juggernaut Unit are allowed to authorize other combatives into the CFM to assist.\n\nGroups of Interest may not enter the CFM unless authorized by JU or they are a part of the list of whitelisted combatives and the requirement for entry is met.\n\nWhile there are no hostiles, JU have the highest authority within the CFM. If no JU are present, SO will take precedence. (and if neither, ISB)\nEven during times of no hostile activity, the CFM should **not** be opened randomly; only if there is a suspected hostile inside.\n\n‌\n\n### Warhead Silo\n\nThe checkpoint at the Warhead Silo is a heavily restricted area controlled by Special Operations members. Any personnel that are not authorized to enter the area are to be killed on-sight.\n\nThe following personnel are whitelisted and may freely enter:\n\n- SO\n- SO Field Chief+ on any allied team\n- ISB\n- AD Administrative Intern+\n- JU Operative+\n\nThe following personnel may enter during specific events that occur inside the Silo:\n\n- RECON/RAH during specimen breaches\n- TTS during rad breaches\n- All combatives during code delta\n\nIf hostiles are present during all codes except delta, after 5 minutes of no JU/SO response (5 minutes after being pinged/notified) All combatives may enter to clear out hostiles, they are to leave afterwards.\n\nAdditionally, when performing Code Ambers, all AD personnel can enter the silo with Special Operations escort.\n\n### Surface\n\nThe surface, an irradiated yet restricted area patrolled, guarded, and overseen by Special Operations members.\nPersonnel of L3+ may only go outside the facility with valid reasoning, unless you are one of the following:\n\n- TTS running a “Rad Run” or dealing with radiation on the surface\n- TTS dealing with CIS or specimen breaches\n- All HWY-P & Rangers\n- RECON/RAH dealing with CIS or specimen breaches\n- RSD personnel during tests\n- VP personnel during a CIS rehabilitation event\n- PB personnel during therapy related events\n- Any combative during the escorting of an event\n- All personnel when there is an active Code Delta or Code Amber drill\n- AD Administrative Intern+\n- Any Intelligence Personnel\n\nExternal Relations members are allowed to bring non-TSC staff into the site under supervision.\n\nWhen opening the surface gate you must say so on the radio, accompanied by an \\@‌Combatives ping. Always close the gate when you are finished to avoid any escapees.\nWhen the gate is opened, remember to grab your keycard back; failure to do so will result in punishment.\n\nSO has the highest authority within the TSC side of the surface and can order anyone back into the facility and or kill trespassers within the designated TSC areas. Failure to comply with them allows for you to be killed on-sight.\n\nAdditionally, SO may not terminate personnel who are doing their duties whilst on the surface. SO HR+ may override usage of the surface gate in the event of an emergency when ultimately necessary.\n\nIf you are unaware of where the TSC side of the surface is; see the image listed at the bottom.\n\n---\n\n### No CoE Zone / Slums\n\nThe slums, also notoriously known as the \"No CoE Zone\", are located within Sector 1 of the facility. The Sub-level 6 Hall B staircase located between the No CoE Zone and the Sector 1 Panic Shelter is not to be considered part of the No CoE Zone.\n\nAll rules of the Code of Ethics except A1, A2, F1, and B4 regarding radios and F2 are voided within the zone. Handbook regulations and contract regulations still apply in this zone unless said otherwise by the respective division, department, or GoI. All hostile groups that are authorized to be in Maxiburger during non-raid times may also enter this area and participate in it.\n\nThe area covers:\n\n- “ gooberbean’s wafflehouse “\n- Sewers\n- Slums behind Maxiburger\n- Maxiburger\n  - While in the area of Maxiburger, you are not to disrupt duties of other departments, including Maxi itself (i.e. messing with their equipment, pulling lockdown and light switches, etc.), on purpose (if severe enough, may lead to an F2 infraction alongside a global blacklist)\n  - You must treat others with respect and not engage in combat with Maxi staff without valid reasoning (i.e. Maxi staff violating their own handbook, abusing their power / attacking you without a proper reason)\n  - You are not to mass-murder people within the area (i.e. any act which results in large amount of casualties)\n  - You are not to intentionally act provocatively towards anyone, rules regarding harassment still apply and will be enforced.\n  - Maxiburger employees are not permitted to leave Maxiburger grounds unless participating in Maxiburger events such as Maxi-Train, Free-Range Employees, or a rally/patrol. They may also leave if H10 is active, they are delivering food, they have authorization from Manager+ or AD, or if they are a KIP with escorts.\n  - Maxiburger employees are treated as FP outside of Maxiburger, requiring them to follow the CoE.\n\n**Note:** Any side regulations, alongside hostile termination procedures on Maxiburger territory are to be discussed between Maxi and department commands.\n\nYou may find Maxiburger handbook here: [https://trello.com/b/6QuAt0F8/tsc-maxiburger-handbook-new](https://trello.com/b/6QuAt0F8/tsc-maxiburger-handbook-new \"smartCard-inline\")\n\nYou may not shoot personnel outside of the No CoE zone while being in the said zone and vice versa.\n\nYou may not harm intelligence personnel (EC, ISB) inside the No CoE zone.\n\n---\n\nNon-combatant personnel whose special clearance allows them to enter routes marked for combatant personnel may enter them at their discretion. Some areas may require non-combatant personnel to be accompanied by security forces, and the required degree of protection may vary.\n\nPersonnel may not enter any hostile spawns unless there are confirmed hostile TS in the spawn. Personnel may not use any routes which are designated to be used by raiders, these include vents, teleports, doors, etc.\n\nIf personnel have an upgraded clearance from another department, they may utilize it as long as it doesn’t overstep the authority of the team they are on.\n\n---\n\nList of current clearance cards:\n\n- Kitchen (Anyone)\n- Level 1\n- Level 2\n- Level 3\n- Level 4\n- Level 5\n- Omni Card (AD Only)\n- Security Card (Combatants only)\n- Recon & Spec Ops Armory (Combatants only)\n- SO Card (Combatants only)\n- Medical Card\n- Lab Card\n- Utility Card\n- Special Access Card (Intelligence and Enforcement only)\n- Redacted Access Card (Intelligence and Enforcement only)\n- LD Bypass Card\n- Maintenance Card\n- CTZ Card",
+   "idList": "6278016ad203c450e705e192",
+   "name": "Rule B1 | Clearance levels & Checkpoints",
+   "pos": 131071,
+   "shortUrl": "https://trello.com/c/IFlfNXkw",
+   "attachments": [
+    {
+     "id": "685758f6112cc5cc12d5a09f",
+     "bytes": 272667,
+     "mimeType": "image/png",
+     "name": "Surface boundary.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e23f/attachments/685758f6112cc5cc12d5a09f/download/Surface_boundary.png"
+    },
+    {
+     "id": "6886c359068ef23adc1f653b",
+     "bytes": 61455,
+     "mimeType": "image/png",
+     "name": "surfaceUNpipeboundary.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e23f/attachments/6886c359068ef23adc1f653b/download/surfaceUNpipeboundary.png"
+    },
+    {
+     "id": "6886c359d93bb3b67a0fd6fa",
+     "bytes": 57891,
+     "mimeType": "image/png",
+     "name": "surfaceharbor.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e23f/attachments/6886c359d93bb3b67a0fd6fa/download/surfaceharbor.png"
+    }
+   ]
+  },
+  {
+   "id": "6278016ad203c450e705e227",
+   "closed": false,
+   "dateLastActivity": "2026-06-24T01:20:15.427Z",
+   "desc": "# Site-Wide Emergency Protocols\n\nIn the event of a site-wide emergency, the correct site code color should be activated so the proper announcement be made over the PA system that matches the situation.\nCodes do not need to be raised or lowered in order nor does there need to be a set amount of time before lowering the code. (Code can be changed from Gamma down to Blue if there is no more reason for Red or Gamma)\n\nThe following Emergency Code Levels currently exist in-game:\n\n**Code Green:**\n\nThis is the standard color code for site operations when there are no recognized threats against site stability. When there aren't any threats that pose a danger to site stability, code green should be reinstated and site operations should be continued as normal.\n\n**Code Blue:**\n\nA potential threat is roaming the site with a high probability of posing a threat to site stability. All personnel should have heightened awareness of any possible threats around them, and report them when they are spotted. This status should be set if any of the following conditions apply:\n\n- Armed hostiles were reported to be within the facility\n- Contained Infected Subjects are confirmed to be missing from their containment zone\n- Large groups of escaped inmates roaming the facility\n\n**Code Red:**\n\nA confirmed threat is roaming the site and is an active threat to site stability. Any non-combatant personnel are advised to vacate the current sector the threat is in, and to make their way to a designated safe area. Security forces may order non-combatants into a safe area if deemed necessary. This status should be set if any of the following conditions apply:\n\n- There is an armed group of hostiles reported on-site actively contributing to site instability\n- There is a confirmed Infected outside of the Containment Zone\n- Any amount of radiation has breached containment\n- A rogue staff member has been reported within the facility\n\n‌\n\n**Code Gamma:**\n\nA highly dangerous threat has been detected in multiple sectors of the facility, and is actively contributing to site instability. No non-combatants may be outside of the nearest designated safe area/panic shelter with an exception of medical personnel in accordance to C1. This status should be set by L-4+ personnel if any of the following conditions apply:\n\n- Any U4 specimen has breached their containment chamber.\n  - The “containment chamber” is the room at which the specimen spores reside.\n- A large number of hostiles are actively contributing to site instability and normal security forces cannot handle the threat\n- A large amount of staff have reported to have gone rogue\n- Code Red has been on for a **constant** 40 minutes+ without any sign of the threat(s) causing it being resolved.\n  - SD Warrant Officer+ can authorize gamma after code red has been on for a constant 30 minutes\n\nRECON, SO, and JU may set gamma if one of the requirements above are met. (Even if they are not L4+)\n\nCodes past **Code Gamma+** are only to be activated by L5+ Personnel.\n\n**Code Epsilon:**\n\nFull site control has been lost to hostile forces. Any means to get to a designated safe area is permitted even if that means bypassing Code of Ethics rulings based on clearance or self-defense. This status should be set if any of the following conditions apply:\n\n- Most sectors of the facility have been overrun by hostiles\n- A full site breach or riot has occurred where no area in the site is considered safe\n\n**Code Delta:**\n\nThe situation on site is beyond repair, and the on-site nuclear armaments have been primed to detonate and destroy anything inside the facility. All personnel must evacuate to the surface by any means necessary and security forces should help personnel evacuate and prevent hostiles from escaping to the surface.\n\nThe on-site nuclear armaments may only be activated by personnel who possess an administrative clearance (AD+) or SO/SD 2iC+ during the event of when site control cannot be regained after a Code Epsilon has been initiated after at least 20+ minutes. The nuclear warhead detonation is only to be used as a last resort, and may only be activated if the following applies:\n\n- Site control cannot be regained during a **Code Epsilon** after 20+ minutes\n- The entire site is compromised, and a member of the Administrative Department gives authorization for a **Code Delta** to be initiated.\n\nIf the onsite contingency system is activated without an evacuation announcement, then it is assumed to be compromised by hostile forces and emergency evacuation is to commence unless Security Forces regain control and deactivate the system.\n\n**Code Amber:**\n\nA simulation of the evacuation protocol performed during a **Code Delta** event that is used as a drill to ensure that all personnel present know what to do when an evacuation is called, and should be considered with the same urgency and efficiency for an actual **Code Delta** event.\n\n- A **Code Amber** may only occur with the permission of a member of the Administrative Department and is to be supervised by Security and/or Divisional Command staff\n- Before a **Code Amber** is declared, all on-site personnel are to be warned for at least 5 minutes to ensure that any ongoing events are canceled, concluded, or postponed.\n- **Code Amber** should only be called up to 2 times per month and should last a maximum of 15 minutes.\n\nA designated safe area is any one of the following:\n\n- A breach or panic shelter.\n- A department office that isn't easily accessible to hostile forces.\n- Any area designated by present security forces on-site to be considered safe and defend-able from hostile forces as an alternative.\n- TSCZ Control Room, Main Control Room in SD U2, and the CISCZ Control room\n\nPersonnel should remain in their safe location for the duration of the emergency unless they are:\n\n- Requested and escorted by a combatant for instances of **Code Red** emergencies.\n- Forced out of the safe area by hostile forces.\n- **Code Delta** has been activated and an evacuation commences.",
+   "idList": "6278016ad203c450e705e192",
+   "name": "Rule B2 | Emergency Protocols",
+   "pos": 262143,
+   "shortUrl": "https://trello.com/c/4pyxlkG9",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e22b",
+   "closed": false,
+   "dateLastActivity": "2026-07-12T11:47:25.202Z",
+   "desc": "Weapons ranging from light batons to heavy assault rifles are all part of the arsenal of certain divisions for various reasons. To ensure these arms are used appropriately, certain restrictions apply.\n\n- You may not break or damage important breakable objects. (Drones, pipes and their valves etc.) without reason with any weapon. The acceptable reasons to destroy breakable objects are if hostiles must be terminated behind them, hostiles control the equipment or you are trying to gain quicker access through a route.\n- Only buildings that completely prevent access to areas of the facility may be destroyed. Additionally structures that are not being actively used/serve no purpose that clutter hallways and rooms may be destroyed. (_Refer to D1 for specifications about TS builds in TSCZ_).\n- Innocent individuals may not be injured with any weapon.\n  - The exception(s) to this is if you are in the kill zone of Internal Security Bureau members or Juggernaut Unit Operatives, or if you are a Security Department member following the personal space clause found within their handbook. A baseline of these regulations follow a 5-stud stun (SD) or kill zone (ISB, JU) if they violate the personal space of the individual. There may be instances where they can terminate you for intervening with their duties after receiving a warning from them.\n  - Personnel who carry it may use the blood transfusion gun to take blood from subjects inside of solitary confinement.\n  - Combat Medics may use stims on personnel with their own internal regulations of consent or free-use\n  - Special Operations Operatives may terminate individuals for violating their personal space following A1.\n    - This being about 3 studs or on their characters head, hugging them, etc.\n\n---\n\nNon-combatant personnel follow additional regulations to these rules:\n\n- Non-combatant personnel may not carry large or automatic weaponry unless given special authorization from the Administrative Department (Administrative Intern+ or through an executive order such as H10 when active.)\n- Non-combatants may not harm hostiles or use weapons unless they are doing so in self-defense or are protecting other defenseless personnel (Downed combatants, unarmed non-combatant personnel…) from being attacked or threatened with harm.\n  - Note that your priority should be escaping the threat if there is a safe way to do so. You may not constantly defend others or run after someone to finish them off since your duty is to escape the danger.\n  - If you have downed a hostile in self-defense in an appropriate way, you are permitted to finish them off.\n- Non-combatants may fire upon hostiles that have taken control over a vehicle that belongs to them and chase the hostile in order to retrieve it. If you have downed the hostile in the process of it, you are allowed to finish them off.\n- Non-combatants may not take any weaponry that is unavailable for them to use in their firearm permit. They are only allowed to use weapons available to them when they spawn or in their department headquarters unless stated otherwise by their departmental command (L5+).\n- Additionally, when on the Facility Personnel team you may only use weapons if you have an issued firearm permit.\n- In the case that you are a Contained Infected Personnel (CIP) with over 200  Health, you may not wield any firearms exept for the TASER. Note that you must have a Type-A Firearm permit to use the TASER.\n\nThe regulations for firearm permits regarding personnel can be found here:\n\n[https://docs.google.com/document/d/1gccqesU3vb94henWzNkBQA3MSR8OmxYqkgETIuc-JF0/edit](https://docs.google.com/document/d/1gccqesU3vb94henWzNkBQA3MSR8OmxYqkgETIuc-JF0/edit \"smartCard-inline\")\n\n---\n\nPersonnel who receive / purchase unauthorized weaponry. Any black market item, items from John Recycle, or weaponry from hostile forces that is not normally available to you in your standard loadout, may not use it and should surrender it to a combatant or administrator, or they should dispose of it as soon as possible.\n\nCombatants cannot use weapons surrendered to them or weapons they have picked up unless they have access to them normally or are authorized to use them.\n\n‌\n\n---\n\n### Manual turret\n\nThe manual turret can be purchased from the SDHQ garage, it is only to be used by full combatives, additionally these rules must be followed:\n\n- No more than 2 turret mays be welded to any 1 vehicle.\n- Turrets may not be taken into spawn areas (TSCZ, CISCZ, SDHQ, etc.)\n  - The exception to this is in TSCZ, where up to 2 turrets may be placed in inner TSCZ behind the red line.\n- Turrets are not to be left lying around unattended as hostiles can take them.\n- Semi combatives may use the turrets on Red+.",
+   "idList": "6278016ad203c450e705e192",
+   "name": "Rule B3 | Weapon Handling",
+   "pos": 327679,
+   "shortUrl": "https://trello.com/c/qFM3D8Gl",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e1f5",
+   "closed": false,
+   "dateLastActivity": "2026-06-24T01:30:04.088Z",
+   "desc": "Tools ranging from wands, cuffs, etc. are all part of loadouts for certain personnel. To ensure these tools are used appropriately, certain restrictions apply.\n\n### Cuffs\n\nPersonnel may use cuffs for certain reasons, whether it be on inmates or other personnel. When they do use them, the following restrictions apply.\n\nPersonnel may not do the following actions on cuffed individuals:\n\n- Threaten to drop the individual over harmful or deadly ledges\n- Infect/ Have others infect the cuffed/carried individual unless in a test\n- Give contraband to the individual\n- Kill or intentionally harm the cuffed/carried individual, unless:\n  - The cuffed/carried individual is an inmate that is being brought to solitary confinement or a test/event and they must be stunned to avoid risks of escape before putting them in Solitary Confinement, or a large weapon is found on them and they must be terminated.\n  - The cuffed/carried individual is an inmate undergoing a test and the test requires it to minimize collateral damage while disposing of the Test Subject. This also applies to any inmates who misbehave during a test and need to be terminated.\n  - The cuffed individual is an inmate who is actively using other people as cover after attacking personnel.\n  - The cuffed individual is wearing any disguise regardless if no contraband is possessed.\n  - The carried individual is an armed inmate who has been downed in the TSCZ and was taken to a safer location to finish them off to ensure minimal collateral damage and the securing of the subject's weapons.\n\nInmates who were found glitching may be cuffed, but it is recommended you report these actions to the in-game moderation team and leave it to them. Additionally, you’re permitted to cuff exploiters as long as you have evidence of them exploiting, but you must be careful not to restrain moderators under this clause.\n\nInfected specimens may not be cuffed unless the said infected is one of the following:\n\n- An unarmed CIS.\n- An infected within the CIS-CZ.\n- Being brought back from/during an event with the host's permission. Detainment rules from the section above apply whilst they are cuffed.\n- An Armed CIS may be cuffed if:\n  - The CIS is in or walking away from a restricted area.\n  - The CIS is walking away from an open BM vent.\n  - The CIS was seen out of containment but has returned to containment.\n  - The CIS is seen binning, wielding, dropping, or has contraband visibly.\n  - The CIS is near another CIS who has dropped contraband.\n  - Additionally, combatives must attempt to allow them to willingly drop their weapons before apprehending them.\n  - Combatives may cuff and wand CIS if they have reasonable suspicion of them carrying any concealed weaponry.\n- CIS that use the '/e surrender' emote upon being confronted may be cuffed regardless of weapons or contraband.\n\nPersonnel may only be cuffed/carried when:\n\n- They have been downed and must be relocated to a safe area to revive them.\n- They have gone rogue.\n- You are a part of EC or ISB.\n- Said personnel are your subordinates in your current department.\n- You have received explicit permission from a DI+ of the department member you’re cuffing.\n- You have received permission from the person you're cuffing.\n\nYou may not use your cuffs pointlessly or disruptively whether it’s an inmate or personnel that you’re restraining.\n\n---\n\n### Wand\n\nThe wand is a tool that is typically part of the arsenal of combatant personnel or intelligence personnel to check if inmates and/or personnel are in any possession of contraband. You must not use the wand pointlessly or disruptively and follow the listed regulations while using it:\n\n- Checking inmates for contraband if they are acting suspiciously. (Covering up their back constantly, having been near a TS who had contraband, avoiding security presence, etc…)\n- Wanding other personnel for testing purposes.\n- Checking inmates for contraband freely if the respective protocol is active in your department. (Including SD contraband sweep drill.)\n- Confiscating any type of contraband including lethal drinks when they are being brought to solitary confinement.\n- Checking personnel for unauthorized firearms or to verify their identity.\n\nDo not use the wand to obtain undroppable items (such as special keycards, tools, weapons, etc.), or to deliberately drop every single item from one's inventory.\n\n---\n\n### Grenades\n\nThrowables can be vital for support in active combat. To ensure they do not get misused and for the safety of other personnel, the following regulations should be followed when using throwables:\n\n- Utility Grenades (Flashbangs, Smoke Grenades) should not be randomly or disruptively used.\n- Harmful throwables (e.g. grenades, explosives) should not be randomly deployed intentionally.\n- Frag Grenades should only be used if the EOP is Code Red+ or higher.\n- Sterilizers should not be randomly or disruptively used and also should not be used in combination with any form of fire unless authorized or there is no clear and present danger to surrounding personnel.\n\n---\n\n### Radio\n\nThe radio is a vital communication tool available for all personnel to freely use. When using a radio, the user is expected to follow all behavioral, in-game and Roblox ToS rules as with standard communication.\n\nRadios also possess their own set of additional rules:\n\n- Radios may not be used for irrelevant communication during emergencies or during exchange of important information.\n- You may not provide misinformation or lies on the radio, if you are unsure about something make sure to state so.\n- You may not use the ping feature ( ex. \\@‌everyone ) for unnecessary messages. This is reserved for important messages only.\n\nThe ping feature of the radio is similar in nature to the one on Discord, simply type in a users or teams name after a “ \\@ “ and the user/team will be pinged alongside your message. You may also use \\@‌Combatives to ping all combatants and \\@‌everyone to ping everyone which possesses a radio.\n\n#### Channels\n\nThe radio has a few channels in its disposition, each channel having a different purpose.\n\n- Global channels may be used freely by anyone for any reason.\n- Staff channels are reserved for staff/event coordination.\n- Combatant channels are reserved for callouts, emergencies and other site security topics (like SC strikes)\n- _The existence of any other channel is a myth._\n\n---\n\n### Pagers & CSM Terminals\n\nCommunication & Shift Manager terminals are another way to establish communication between personnel alongside radios, they also come with a pager. Any message transmitted from the CSM terminal is received by personnel's pager within a 200 meters radius of said terminal.\n\nPagers and CSM terminals follow a set of rules that is nearly identical to the rules of radio usage. You must follow behavioral rules and don't be disruptive.\n\n---\n\n### Medical equipment\n\nMedical equipment (Splint, Tourniquets, etc) is found in various locations where medical personnel work or are commonly found. The equipment is generally restricted for use by personnel who are not designated medical staff. The rules are as follows:\n\n- Personnel may not possess medical equipment.\n- Personnel are required to dispose of or hand over medical equipment to the nearest medical personnel.\n- Personnel may use medical equipment as necessary only when no MDs are available nearby, otherwise, they must resort to being treated by the medical personnel or the medical staff NPCs.\n- Disinfectants may be carried and used in the case of an emergency by personnel at risk of infection.\n\n---\n\n### Miscellaneous\n\nPersonnel are prohibited from intentionally destroying their departmental or GOI-issued non-weapon equipment in any manner. (examples: ID papers, Cuffs, Keycards, Radio, etc.)",
+   "idList": "6278016ad203c450e705e192",
+   "name": "Rule B4 | Tool Usage",
+   "pos": 393215,
+   "shortUrl": "https://trello.com/c/V1lcwfux",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e1ed",
+   "closed": false,
+   "dateLastActivity": "2026-08-29T10:59:27.474Z",
+   "desc": "#### PA System\n\nThe global PA system is only to be used to send server-wide announcements by L4+ personnel, GoI Command members or by Special Operations MRs regarding any lock down procedure.\nAdditionally, whilst using the PA you are required to speak in a professional and appropriate manner.\nYou may only use the PA system to announce the following:\n\n- The start of a raid, breach, riot and/or lock down.\n- Ordering non combative personnel to a designated safe area when the proper codes are applied\n- Declaring a site evacuation during a Code Delta or Code Amber\n- High ranking combative personnel ordering their subordinates\n- MD High ranks announcing the start of a Scenario Event\n- JU members announcing a JU designation\n- Combatives may announce when the PA gets retaken from a hostile force, professionalism rules must still be followed.\n- Psychology Branch may use the PA to announce hosted events such as group therapy.\n- Research and Studies personnel may use the PA to request for assisting users (other RSD, combatives, etc.) for testing purposes.\n  - People who utilize the PA for this reason must be sure to send a clear and to the point message.\n\n‌\n\nCombatives, regardless of rank, must use the PA to announce the start and end of a sectoral lockdown, including CTZ lockdowns.\n\n#### TSCZ local PA\n\nThe local PA in the TSCZ may not be used disruptively and is to be used for announcing non-combative events.\nIt may also be used to announce TSCZ lockdowns instead of the global PA.\n\n---\n\n#### TSCZ Lockdown\n\nIn the event of a threat/incident affecting the Test Subject Containment Zone, the lock down of the TSCZ may be used in various ways and may only be used for the following reasons:\n\n- A breached specimen is inside the TSCZ or ventilation systems connected to it, and it has not been contained for 20 minutes. If the specimen is actively causing a mass infection in the TSCZ it may be turned on.\n- Any amount of radiation has breached containment and is creating a risk of harming Test Subjects or Personnel.\n- A large amount of inmates have been constantly rioting for 5+ during Code Gamma+, which cannot be handled by normal security forces.\n- TSCZ has been overrun by Hostile GOI's for 5 minutes.\n- A large number of hostiles are causing a disruption within the ventilation system, and a Security Force (full combative) HR+, GoI Command Member, or Special Operations MR authorizes a ventilation sweep. Before initiating a lock down, you must warn inmates via the PA system prior to activating it.\n- It has been Code Red for 45+ minutes, or Code Gamma for 5+ minutes\n\nThe TSCZ Riot Gate, can be engaged by anyone under these circumstances:\n\n- TSCZ is unguarded or taken over.\n  - Can also be used if understaffed (less then 2 combatives)\n- Code Red+.\n- Mass infection is happening in TSCZ during a breach.\n- A system riot is occurring.\n- RSD is starting any kind of test\n  - The Riot Gate must be opened after the briefing room is cleared\n\n---\n\n#### Ventilation\n\nA set of universal rules for who can enter into any ventilation;\n\n- Juggernaut Units whenever they deem necessary.\n- Special Operations during on-going system riots, raids as well as breaches and lock downs, or when armed inmates are using the ventilation shafts as cover.\n  - “Using as cover” would be if an inmate is actively showing hostility and running to the vents for safety.\n- Combatant units entering the ventilation shaft to finish off a downed hostile that they were previously chasing. You must immediately leave after doing so.\n\n##### **TSCZ Black market/vents**\n\nVents that are connected to the TSCZ black market may be accessed during these conditions along with previously stated;\n\n- Fumigators or Combatives with partial/full immunity during a confirmed breach within the area, to sweep for any potential or confirmed biohazards.\n  - Immunes that enter the Black market without an authorized vent sweep, during a breach under this rule, may ONLY engage in combat with _infected subjects_ and not anyone else outside of the Self Defense clause.\n- Combative units during TSCZ lockdowns that are **not** caused by a breach.\n- TSC based Security force (Security Department, RECON, SET, etc.) in groups of 2, when armed inmates are using the ventilation shafts as cover when there are no Special Operations present.\n\nExhaust vent below the TSCZ Black-market is considered NOT connected to the Black-market, when the BM LD is off.\nWhen the BM LD is on, exhaust is then considered “connected to BM”.\nStacking to get into the BM, or to get a shot into the BM vent, is not allowed. (Unless one of the requirements is met for you to be allowed within the BM ventilation.)\n\n##### **Additional Black Market Vents**\n\nOther black market vents such as \"Liams\" (Sector 2 black market above Sector 2 commons), the vending machine market, and surface black market, all follow the non-TSCZ specific rules in the points above. However, additional conditions apply for _**these areas specifically**_ such as;\n\n- Special operations may enter vents connected to black markets alone\n- Immunes may freely enter CTZ Vending Machine market.\n- Combative units in groups of 2 may enter the shaft to deal with any confirmed threat within it, loitering inside is prohibited.\n\nThe \"tram blackmarket\" is not considered \"blackmarket ventilation\". If there are confirmed hostiles within it, combative units may clear it out but must exit immediately after.\n\n##### **Ventilation not connected to Black markets**\n\nMany ventilation systems found around the site are not connected to any high-traffic areas such as black markets however they do still have their own set of rules.\n\n- These systems may be accessed by combative units freely.\n- Non-combative personnel for the use of shorter routes/travel between locked down areas.\n\n##### **CISCZ Black market vents**\n\nThe ventilations system within CISCZ is entirely connected to the black-market since there are 3 locations the black-market rotates through. All vents in and surrounding the CISCZ are to be considered “connected to a black-market” as there is no way to pre-determine where the black-market spawns.\n\n---\n\n#### TSCZ Black-market Lockdown\n\nIn some special circumstances, the black market lock down for the TSCZ may be enabled by non-combative personnel. This LD may stay on for a maximum of 15 minutes, and has a cool down of 15 minutes to be turned on again.\nClassrooms (Seminar wing) lockdown has the same restrictions as the BM Lockdown and can be activated as well if conditions below are met. (It may still be closed when S2 Partial is engaged.)\n\nThe LD may only be enabled if the following conditions apply:\n\n- Non-combative personnel (L3+) hosting a mass event (Mass interview, mass checkup, etc.)\n- RsD Organizing/Starting any type of test\n\nDue to the nature of the events the BM LD should be used for, its use is restricted to L-3+ personnel hosting those events.\n\n- L-4+ personnel may grant permission to lower-ranking personnel within their department to use the BM LD in use-cases outside of mass-events\n\nAll activations of the BM LD should be announced via the radio system using an “@combatives ” ping. This is to ensure all security personnel are aware of its activation.\n\nNote: The BM LD should never be used by combative personnel. (Except during raids)\n\n---\n\n#### Sector 1 Med-bay Lockdown\n\nIn the event of an ongoing Site Emergency, Medical personnel may lockdown the Sector 1 Med-bay for the purpose of keeping all occupants inside safe. During this time it may act as a safe area just as a panic shelter would.\n\nThe following criteria for a lockdown are as listed:\n\n- There is a confirmed threat inside of Sector 1.\n- The current site code is set to GAMMA or above.\n\nWhen medical personnel are to lockdown the Med-bay, it needs to be announced over Radio for other staff members or Security personnel.\n\nThe Sector 1 Med-bay may also be locked down by the order of MD HR+ without needing any of the 2 previous criteria's being met.\n\n---\n\n#### Sector Lockdown\n\nIn the event of a threat/incident affecting S1/S2, a lock down of the area may be used in various ways and may only be used for the following reasons:\n\n- A breached specimen has been confirmed to be located within the sector/is confirmed to be heading to the sector.\n- A large amount of inmates have breached the sector, and combatants have lost control of it for over 10 minutes.\n  A full lock down of the sector in the event of a mass breach or a Code Gamma+ Test Subject riot, and if there is an L5+, GoI SHR+, or Combative/combative divisional HR+ to monitor/control the lock down usage.\n  - The definition of a full sector lock down is closing all of the window grates and all blast doors within S2. In S1, a full sector LD would be closing all blast doors within Sector 1.\n\nStandalone usage of blast doors or window graters are not allowed unless there is a **Code Red+** active. Combatants may modify the lock downs of the sectors if they deem it necessary.\n\nAfter the following threats have been dealt with, or procedures are done, the lock down must be turned off immediately/procedure must be concluded. **The TSCZ lock down may not be enabled during system riots as it has been ordered by the Site Administrator.**\n\n---\n\n### CTZ lockdown\n\nIn the event of a CTZ containment breach or other hostiles within the sector, the CTZ lockdown may be enabled, locking the 2 main entrances, either trapping hostiles inside or keeping them out. The CTZ LD may only be used for the following reasons:\n\n- 3+ hostiles enroute to the sector (tram BM onwards)\n- 3+ hostiles are inside of the sector\n- Any amount of hostiles are enroute using vehicles\n- Any amount of hostiles are inside of the sector with a vehicle\n- A breach is taking place in the sector\n- May also be turned on if requested by an RSD due to either riskiness of a test, or to keep a large scale test in CTZ safe\n  - a \"risky\" test would be defined as a test that may require large amounts (3-5) of infected to be let loose in CTZ for the test. Or if U4 specimens are being used in CTZ (outside of U4)\n  - Large scale tests would be a mass test using any large area of CTZ as their \"test chamber\"\n- JU operatives whenever they deem necessary, given they can provide valid reasoning\n\nAfter the incident that caused the lockdown is resolved, the lockdown may be left on for an additional 5 minutes to ensure no more problems arise, after which it is to be turned off.\n\n---\n\n### CTZ contingency procedures\n\n#### Bridge operation\n\nDuring any and all codes, the CTZ Bridge must remain up, regardless of code. Any and all personnel should announce when they're using the CTZ Bridge, to avoid confusion if a hostile threat is using the bridge.\nIf a security checkpoint is being run by the bridge (Inner CTZ, main bridge, CTZ entrance road) it may remain down upon request of the unit guarding the closest checkpoint to it.\n\n#### Chamber Lockdowns\n\nIndividual chambers may only be locked down in these instances:\n\n- If an active breach had been just cleared of that specific specimen.\n  - Example: There was a 990 breach that was just cleared, the 990 chamber can be put in lockdown.\n- A large group (4-6) of TS have been spotted heading to CTZ in attempt to breach.\n\nMay stay on until the immune combatives have deemed it safe for it to be unlocked down.\n\n---\n\n### Blackout\n\nDeactivation of the site’s lighting may be utilized as a last resort effort from site security to regain stability of the site. The authority to enable the blackout protocol is only given to high ranking security force members (L4+ or GoI officer rank equivalent), specialized unit MR+ (Special Operations and the Recontainment Unit) and the Juggernaut Unit.\n\nBefore the blackout protocol is enabled, it must be announced on the PA system, stating who authorized it. The protocol may be announced in the name of the authorizing officer but the said officer must be on-duty (in-game.) The following are valid reasons for the blackout protocol to be enabled:\n\n- An armed riot has spread outside of the TSCZ, or a breach has made it out of the CTZ which has caused the loss of a sector and has not been contained within 25 minutes.\n\nThe lights may only be turned off for up to 15 minutes before they must be turned back on again. If the situation which has caused the blackout has not yet been handled, the time is extended until the threat is eliminated. **Blackouts may not be used in System Riots.**\n\n**Note:** The lights should never be turned off during raids due to the vast majority of hostiles being equipped with night-vision which would heavily reduce the effectiveness of allied security forces.",
+   "idList": "6278016ad203c450e705e192",
+   "name": "Rule B5 | PA, Vent & Contingency System Guidelines",
+   "pos": 458751,
+   "shortUrl": "https://trello.com/c/KrQWFNNb",
+   "attachments": []
+  },
+  {
+   "id": "6303fb6bb136833ed499152f",
+   "closed": false,
+   "dateLastActivity": "2026-08-03T21:28:47.857Z",
+   "desc": "During all raids conducted by hostile forces, a set of **universal rules** will be present to keep all things fair and balanced between both parties. During any raid of any kind the following regulations apply:\n\n- The Sector 1 LD should **not** be utilized in any way. (Blast doors, window shutters) but Sector 2 **partial** LD may be used during **loud raids**. (S2 L2 door + cargo elevator blast doors + shutters)\n  - This does not apply to the TSCZ LD or CTZ LD\n  - In the instance EPSILON is enabled, the S2 LD must be disabled.\n  - The Black-market Lockdown may be utilized during any raid\n- Any unfair advantages of any kind (Bugs, glitches, any other unintentional feature) may not be utilized during raids and can result in further punishment from the in-game moderation team.\n- A 1:1 Ratio must be kept between Juggernaut Units and the hostile forces equivalent of it **with the sole exception of Centurion Raids, which has different ratio regulations.**\n- Both parties must be respectful to each other and section A is always in effect for both parties, hostile or not.\n- Stuns may not be utilized in any way. (Bat stun, stunstick stun, riot shield stun, etc…)\n- Chem-bombing is not allowed to be utilized in any way.\n- **During a breach**, BOTH PARTIES in a raid must ceasefire on each other, and deal with the breach. UN may assist in dealing with the breach if approved by TSC raid leaders. Flags must not be capped for the duration of the ceasefire.\n- **Any** usage of traps on teleports and spawns is strictly prohibited during raids.\n\nDuring Loud Raids, which are always announced beforehand, additional regulations apply:\n\n- Special forces' squads may not be deployed on either side (Special Operations, Special Service Group). **This does not count for SO Tactical Response and base SSG units.**\n\nRaids are classified into 2 different categories. “Loud Raids” and “Alternative Raids”. Loud raids are as they are, alternative raids are Flash, Stealth, and Solo raids.\n\n- **2** Loud raids max per week (_Sunday 00:00 UTC -> Sunday 00:00 UTC_)\n  - **2** day cooldown\n- **7** alternative raids max per week(s)\n  - **4** hour universal cooldown\n- Mercenary (“Merc”) deployments have a cooldown of **1 hour**\n- There is a 2 hour cooldown between UN events being hosted.\n\n### **Regulations regarding more specifics are listed here;**\n\nhttps://docs.google.com/document/d/1bkC26zcUHJjEhN6KvObE6Kq2lM8kFLRHxXa6ek3wu4g/preview?tab=t.0\n\nIt is recommended that an ER member is present during any raid, especially loud raids, to keep track of the combatant ratio.\n\n**Security personnel may not go past the Canadian border leading to the UNSDF spawn to deal with hostiles at any time during an active raid. Doing so will result in punishment for Illegal immigration.**\nAn example of where the border is can be found below.",
+   "idList": "6278016ad203c450e705e192",
+   "name": "Rule B6 | Raid Regulations",
+   "pos": 524287,
+   "shortUrl": "https://trello.com/c/ELvyusza",
+   "attachments": [
+    {
+     "id": "66ff1c1d3ef804146d225204",
+     "bytes": 281652,
+     "mimeType": "image/jpeg",
+     "name": "UNSDF Spawn.jpg",
+     "url": "https://trello.com/1/cards/6303fb6bb136833ed499152f/attachments/66ff1c1d3ef804146d225204/download/UNSDF_Spawn.jpg"
+    }
+   ]
+  },
+  {
+   "id": "6454ef276f3ff4ba7ec50d16",
+   "closed": true,
+   "dateLastActivity": "2024-05-31T16:39:00.903Z",
+   "desc": "Vehicles may only be used for the transport of all personnel.\n\nPersonnel with a clearance level of 2 or higher within the department they are currently deployed as may operate vehicles.\n\n- SD Carts and Security Jeeps may only be driven by combative personnel\n- The Buggy, Golf Cart and Civilian Jeep may be driven by both combative and non-combative personnel\n- The RECON Cart and BWD cart may only be driven by their respective members\n- The Heavy Transport Truck may only be driven by Technical Task Squad operatives\n- The Bus and all of its counterparts may only be used for non-combative events or rally events for transport.\n\nOperating any vehicle without the correct clearance or exception to do so will result in punishment.\n\nWhile operating any vehicle you must not deliberately crash it or recklessly operate it at speeds where it is likely to crash or intentionally run personnel over. You are also required to drive vehicles on roads or dedicated paths for vehicles, and you may not drive them on pedestrian walkways or anywhere where a vehicle does not belong. Small vehicles, like carts and buggies may be driven on walkways and other places as long as the driver of the vehicle is not being disruptive with the vehicle or a risk of harm to others by doing so.\n\nCombatants may bypass vehicle driving regulations at their own discretion. If a combatant is to commit a violation of the vehicle driving regulations they must have their sirens activated. If the combatant must act immediately and cannot activate their sirens they will not be punished as long as there is valid reason for it. Abuse of this will lead to punishment.\n\nTo avoid incidents an individual is not to:\n\n- Stand on top of vehicles while they are being operated\n- Block the path or lunge in the way of the vehicle while it’s being operated\n- Shoot the vehicle unless a hostile has control of it\n- Throw anything at the vehicle that make cause damage to it or cause it to crash\n\nThe person who possesses the Car Keys of a vehicle is the owner of the vehicle. The owner’s name would be clearly visible on the license plates located on the front and rear of the vehicle.\n\nIf someone is found driving a car without permission from the owner, it would be considered a Grand Theft Auto crime unless exigent circumstances exist such as vehicle recovery after being stolen by hostiles or moving it out of the way of the train system or roadway. Combatants may borrow vehicles of others without their permission if it’s needed for emergency purposes only.",
+   "idList": "6278016ad203c450e705e192",
+   "name": "Rule B7 | Vehicle Operation Regulations",
+   "pos": 589823,
+   "shortUrl": "https://trello.com/c/gT5GqJIR",
+   "attachments": []
+  },
+  {
+   "id": "649361c7b8ab5134822c1c43",
+   "closed": true,
+   "dateLastActivity": "2024-05-31T16:39:02.646Z",
+   "desc": "Following it’s activation the Black Market Lockdown (BM LD) stays on for a maximum of 15 minutes to help hosted events proceed without much interference. After the BM LD has been deactivated, either manually or automatically, a period of 15 minutes must pass before it can be activated again.\n\nThe BM LD should only be used sparingly and under specific circumstances to avoid abuse:\n\n- RSD Mass Testing\n- RSD U4 Testing\n- Other forms of mass-events if TS are being disruptive\n  - This includes: Mass checkups, mass tours, mass interviews, rallies, etc.\n\nAll activations of the BM LD should be announced via the radio system using an “@combatives ” ping. This is to ensure all security personnel are aware of its activation.\n\nDue to the nature of the events the BM LD should be used for, its use is restricted to L-3+ personnel hosting those events.\n\n- L-4+ personnel may grant permission to lower-ranking personnel within their department to use the BM LD in use-cases outside of mass-events\n\nThe BM LD should only be used outside of these circumstances if TS are being so disruptive as to make even normal non-combative events impossible to conduct.\n\nNote: The BM LD should never be used by combative personnel",
+   "idList": "6278016ad203c450e705e192",
+   "name": "Rule B8 | Blackmarket Lockdown",
+   "pos": 655359,
+   "shortUrl": "https://trello.com/c/Ms9iaRIQ",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e1fb",
+   "closed": false,
+   "dateLastActivity": "2022-05-08T17:44:11.488Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e193",
+   "name": "Health & Safety Legislation",
+   "pos": 65535,
+   "shortUrl": "https://trello.com/c/IYJyrzZR",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e217",
+   "closed": false,
+   "dateLastActivity": "2026-06-24T01:33:27.053Z",
+   "desc": "To ensure that minimal danger is posed, the following should be upheld in the interest of the health and safety of all site personnel:\n\n- Personnel should not deliberately put other personnel in harm's way. This includes overall refusal to perform departmental duties that result in putting other personnel at risk.\n- Non-combatants should avoid active conflict zones where security forces are engaging any hostile forces. Intentionally entering and loitering in an active conflict zone is strictly prohibited. If the active conflict zone is a breach and a non-combatant refuses to leave the area, security members may shoot and terminate the non-combatant.\n- Personnel must show ID papers at the request of any combatant or semi-combatant given their team possesses them. Failure to abide by this request in a reasonable timeframe grants the requester permission to, if need be, down and wand the questioned personnel.\n  - Combatives/Semi-combatives are to make it clear they are asking for ID papers before firing upon the suspected disguised personnel.\n  - The above can be bypassed if you have reasonable suspicion that the person is a disguised personnel.\n  - Personnel that cannot speak to each other as per the ROBLOX chat restrictions may wand suspected disguised personnel.\n- During TSCZ Lockdowns, non-combatives are to remain outside of the TSCZ _unless_ it is confirmed to be safe enough to enter for duty purposes.\n  - Additionally, non-combatives who do go into the TSCZ during a lockdown must listen to combatives when asked to leave for a valid reason.\n    - Valid reason including but not limited to; danger still being present and other combatives able to do the job the non-combative is there for.\n\nIf a personnel consents to said actions, you maybe break certain sections of C4/B3 that relate to harming said individual. These sections include;\n\n- B3, \"Innocent individuals may not be injured with any weapon\". You are allowed to punch/hurts others if they **consent** to it and you aren't causing a disturbance.\n  - Disturbance may be defined as something such as, fighting in the inner TSCZ where combatives are attempting to do their job (doesn’t mean you can do it when TSCZ is understaffed)\n  - This may only be allowed when there are minimal people around, and you are not violating things such as behavioral guidelines from your department.\n- C4, \"While operating any vehicle you must not deliberately crash it or recklessly operate it at speeds where it is likely to crash or intentionally run personnel over.\" Personnel may be harmed with a vehicle if you have their consent to do so. This also should not be done while others are around or if there is a risk of harming other individuals.\n\nIf you are using these exceptions to mess around while on a combative team during an active emergency, it will be a violation of the rule above, “Personnel should not deliberately put other personnel in harm's way. This includes overall refusal to perform departmental duties.”\n\nNote: It is highly recommended to maintain a safe distance from any object or person that poses a threat to themselves or the people around them. Failure to adhere to this can result in serious injury or death at the fault of the individual.\n\n---\n\nBy signing the **liability waiver** that is commonly found around the facility, you consent to the fact that any other personnel _who have the waiver signed_ may engage in combat with you (without the use of firearms) at any given moment, and they are not to suffer any punishment for the damage inflicted.\n\n**Note:** You are still not to cause any disturbance; for that, refer to the guidelines above.\n\n---\n\nUsage of Instance-294  during non-testing is restricted to personnel with a security clearance level of 3 or higher. Any personnel supervised by someone with clearance level 4 or higher may also use the instance.\n\nFor the safety of site personnel, only ordinary food items may be ordered from Instance-294 outside of testing purposes following the restrictions above. These items must not cause death or grant permanent statistical changes to your person (Such as Cup of More health, etc…).\n\n- “Cup of player” during a test may not be used to harm any personnel or terminate uninfected test subjects.\n\nIf there are CIS present within Unit 3 then at least 1 combatant should escort non-combatant personnel using the machine to ensure their safety.\n\n- Non-combatives that are immune do not require escort if CIS are present.\n\nAdditionally, members of the Psychology Branch may use Instance-294 to dispense Class-D items for therapeutic purposes.\n\n---\n\nThe blender may be used by any personnel who has access to a blender location within the facility. Usage of the blender in a location that has limited access, such as the inner TSCZ, is not a valid reason to enter that location.\n\n- Under no circumstances should you blend department or GOI-issued tools or equipment.\n\n---\n\nAll members of the Medical Department ranked Nurse+ are permitted to enter combat zones at their own risk to assist Security personnel through healing and recovery with the understanding that they should remain behind Security as to not get in the way.\n\n- They may also remain outside of panic shelters at their own risk in order to actively support security personnel on all code levels outside of Epsilon or Delta.\n- They may enter areas they normally are not allowed to enter due to their security clearance or non-combatant status as long as they are actively supporting Security personnel with the exception of the Warhead Silo and Unit 4 unless given permission by the respective authority in those sectors.\n- They may also accompany patrols of Security personnel throughout the facility in order to be readily available to provide aid only when necessary.\n- Nurse+ may freely assist combatives during raids. However, if they are not actively assisting security forces then they must be in a panic shelter.  Nursing students may not assist in raids, and Interns may not be deployed during a raid period.",
+   "idList": "6278016ad203c450e705e193",
+   "name": "Rule C1 | Physical & Mental Harm",
+   "pos": 131071,
+   "shortUrl": "https://trello.com/c/yk3HgkEh",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e225",
+   "closed": false,
+   "dateLastActivity": "2026-08-29T03:11:55.855Z",
+   "desc": "### General Hazardous Containment Zone Procedures (CTZ)\n\nWhen entering any containment zone of a biohazard the following requirements must be met by personnel upon entering them:\n\n- Personnel has full or partial immunity\n- Non-combatant escorted by at least 2 non-immune combatants or 1 immune combatant\n- No active or unrestrained specimens are currently inside the containment chamber\n\nIf the risk involved is deemed too great by escorting security staff, non-combatants may be prohibited from entering the containment zone.\n\nOnly Level-3 Personnel may enter the Containment Zone (CTZ). RSD, U&M, Combatant Personnel, EC, ISB, and MD(VP & PB) may bypass the clearance level restriction to enter the CTZ/CISCZ if it's required to fulfill their duties.\n\n### **CISCZ / Unit 3 Procedures**\n\nThe CISCZ and Unit 3 extension house mostly docile infected specimens that are researched by the facility and must be handled with extra caution. The following rules apply to the CISCZ and by extension the Unit 3 area when CIS are present:\n\n- Non-combatants may only reside on the top floor of the CISCZ if there is at least one combatant present in the CISCZ and must leave if there are none present. They may enter to determine if there is a combatant present, but are not allowed to loiter around any longer and are to stay behind the yellow line.\n  - To determine where you cannot go, there will be signs above doors that will say something along the lines of “biohazard zone ahead” with red lettering.\n- Combatants with full/partial immunity may enter the bottom floor of the CISCZ freely.\n- Non-combatants may only enter the bottom floor of the CISCZ if they have permission from the combatant personnel present and with 1 partially/fully immune combatant escorting them.\n- CIP and immune non-combatants may enter the bottom floor of the CISCZ freely.\n- Non-immune combatants are only allowed on the bottom floor of the CISCZ if they are given explicit permission by Recontainment Unit members with valid reasoning, or any other immune combatants if they are absent. If there are no immunes present, they may enter the bottom floor if it is necessary to do their duties with good reason (Hostiles roaming the bottom floor, sweeping for escaped inmates...).\n\n### Builds in the CISCZ\n\nIn order to have decorative & harmless builds not be needlessly destroyed, buildings in the CISCZ are protected by the CoE whether they be built by CIS or TS and may **only** be destroyed if they’re disrupting combative duties; Being used as cover, obstructing important sightlines etc.\n\n‌\n\nCombatant personnel reserve the right to tell any non-combatant personnel to leave the CISCZ or Unit 3 if they are acting in a disruptive manner or if there is any other danger imminent. RECON holds the highest authority over the CISCZ and Unit 3 when CIS are present during all codes below blue. This may change depending on the situation and they are to refer to the Security Department Chain of Authority in this scenario.\n\n### Test Subject Containment Zone Procedures (TSCZ)\n\nThe TSCZ is a place where you will find most of the usually volatile Test Subjects. It starts from the break room exit to the inner TSCZ and goes all through up until the exit to the pool locker room which is located past the bathrooms. Due to the containment zone's erratic inmates, personnel should not enter the TSCZ unless they match one of the following:\n\n- A combatant\n- Intelligence personnel (EC, ISB)\n- Personnel who have a clearance of Level-2 or higher\n- Personnel who have a clearance of Level-1 which are being supervised by another individual which possesses a clearance of Level-3 or higher for the purpose of doing departmental duties.\n\nNon-combatant personnel MUST stay behind the red combatant line unless they have a valid reason to pass.\n\n- Valid reasons to cross include; U&M duties, MD personnel actively assisting combative personnel, etc.\n- Escorted by 2 combatant personnel OR have designated VIP protection.\n  - Designated VIP protection is considered any **regulated protection** such as JU, SO or ISB protection.\n  - Semi-combatives **do** count as “combatant personnel”.\n\nPersonnel who do cross the red line (with one of the clauses stated above) are doing so at their own risk.\n\nCIP should not pass the red line during an active breach due to a high chance of being misidentified or injured from anti-bio hazard tools. Under no circumstances can a CIP pass the red line during an active breach of Specimen-239.",
+   "idList": "6278016ad203c450e705e193",
+   "name": "Rule C2 | Containment Zone Procedures",
+   "pos": 196607,
+   "shortUrl": "https://trello.com/c/qVfjgxzS",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e229",
+   "closed": false,
+   "dateLastActivity": "2025-03-11T07:33:41.056Z",
+   "desc": "Certain accessory items are prohibited from wear by inmates and corporation personnel to prevent inhibition of combatant judgement and maintain decency in the facility. These include:\n\n- Full-body packages that disrupt shirts\n- Large accessories that cover the body\n- Shirts or pants that look like another department's clothing\n- Outfits that imitate any hostile group\n- Suggestive items such as Collars, or Bypassed UGC\n\nPersonnel and Inmates wearing such cosmetics should be detained and asked to unequip the offending items. If the personnel refuses to remove the offending item they may be infracted. If an inmate refuses they are considered KOS until they remove the offending item(s).\n\nPersonnel are to not wear disguises even if the disguise is of their team.\n\n---\n\n## Leaked Assets\n\nCombatants may freely terminate anyone wearing leaked Thunder Scientific Corporation assets and _actively attempting to appear as infected_ through means of add-on accessories, even if the avatar (whether intentional or not) is not entirely identical to that of an infected, regardless of whether they are test subjects or personnel.\n\n**This applies strictly to leaked infected assets.** Any other accessory does not justify termination. In cases where someone is wrongfully terminated, the terminating individual will face consequences.\n\n**Note:** Wearing any of the leaked assets listed below on the Test Subject team makes you liable for in-game moderation action as well.\n[https://trello.com/c/iZ3FcFjE/48-player-accessories](https://trello.com/c/iZ3FcFjE/48-player-accessories \"smartCard-inline\")\n\n![C3\\_3.png](https://trello.com/1/cards/6278016ad203c450e705e229/attachments/675855d96c50af5c90049afd/download/C3_3.png)",
+   "idList": "6278016ad203c450e705e193",
+   "name": "Rule C3 | Avatar and Clothing",
+   "pos": 262143,
+   "shortUrl": "https://trello.com/c/26LkClcJ",
+   "attachments": [
+    {
+     "id": "674b2f329f2d26f02094626a",
+     "bytes": 243328,
+     "mimeType": "image/png",
+     "name": "C3.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e229/attachments/674b2f329f2d26f02094626a/download/C3.png"
+    },
+    {
+     "id": "675366f192d2d09a909d445e",
+     "bytes": 298030,
+     "mimeType": "image/png",
+     "name": "image.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e229/attachments/675366f192d2d09a909d445e/download/image.png"
+    },
+    {
+     "id": "675855d96c50af5c90049afd",
+     "bytes": 304220,
+     "mimeType": "image/png",
+     "name": "C3_3.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e229/attachments/675855d96c50af5c90049afd/download/C3_3.png"
+    }
+   ]
+  },
+  {
+   "id": "6659fd6f16a76d4069191696",
+   "closed": false,
+   "dateLastActivity": "2026-04-25T01:57:46.283Z",
+   "desc": "Vehicles may only be used for the transport of all personnel.\n\nPersonnel with a clearance level of 2 or higher within the department they are currently deployed may operate vehicles.\n\nSome vehicles are reserved for their division/department or Group of Interest. A list of those exemptions will be listed down below. Any vehicle that is not listed here can be driven freely by authorized individuals.\n\n- SD Carts and Security Jeeps may only be driven by combatant personnel\n- The RECON Cart may only be driven by their respective members\n- The Maxi Delivery Cart may only be driven by Maxiburger members\n- The SO Jeep may only be driven by Special Operations members\n- The Heavy Transport Truck and TTS Cart may only be driven by Technical Task Squad operatives\n- The Bus and all of its counterparts may only be used for non-combatant events or rally events for transport.\n- The ISB Jeep as well as the ISB Bus may only be spawned in for member of the Internal Security Bureau. ISB Agents may authorize others to use them.\n- HWY-P Trucks can be freely driven. However, usage of their sirens whilst not being teamed HWY-P is prohibited.\n- The ambulance may only be used by medical personnel.\n- The RECON copter may only be used by RECON & RAH.\n\nOperating any vehicle without the correct clearance or exception to do so will result in punishment. Combatives are permitted to bypass the above rule if they need to commandeer a vehicle for emergency reasons (crisis far away, hostiles attempting to steal car, chasing hostiles, etc.).\n\nWhile operating any vehicle you must not deliberately crash it or recklessly operate it at speeds where it is likely to crash or intentionally run personnel over. You are also required to drive vehicles on roads or dedicated paths for vehicles and you may not drive them on pedestrian walkways or anywhere where a vehicle does not belong (vehicles may be driven into the TSCZ briefing rooms for event transportation purposes). Small vehicles like carts and buggies may be driven on walkways and other places as long as the driver of the vehicle is not being disruptive with the vehicle or a risk of harm to others by doing so.\n\nCombatants may bypass vehicle driving regulations at their discretion. If a combatant is to violate the vehicle driving regulations they must have their sirens activated if the vehicle is equipped with them. If the combatant must act immediately and cannot activate their sirens they will not be punished as long as there is valid reason for it. Abuse of this will lead to punishment.\n\nTo avoid incidents an individual is not to:\n\n- Stand on top of vehicles while they are being operated\n- Block the path or lunge in the way of the vehicle while it’s being operated\n- Shoot the vehicle unless a hostile has control of it or the owner is no longer in-game\n  - The owner’s name of the vehicle is visible on the license plates located on the front and rear of the vehicle.\n- Throw anything at the vehicle that will cause damage to it or cause it to crash\n\nIf someone is found driving a car without permission from the owner, it would be considered a Grand Theft Auto crime unless exigent circumstances exist such as vehicle recovery after being stolen by hostiles or moving it out of the way of the train system or roadway. Combatants may borrow vehicles of others without their permission if it’s needed for emergency purposes only.\n\n---\n\n## Train regulations\n\nThe train that spawns in the map may be used for transportation around the site. However, there is a small set of rules you must abide to when operating/going to be operating the train.\n\n- U&M Conductors may drive the train freely (as long as they are following their rules)\n- L2+ may drive the train within reason.\n  - Whilst there is an ongoing emergency, any security personnel (Full-combatives) may operate the train if needed.\n- The person who drives the train must be courteous to those who would like to use it to go places (You should know if you drive the train, people will want to use it to taxi around. Don't hog the train.)\n- Whoever finds the train first may drive it unless;\n  - Another person who would like to drive it is a conductor, in which you must hand it over to them\n  - There is a large event happening such as a rally, patrol, etc. and they would like to use it\n  - Combatives require it during an emergency on-site and must get somewhere quickly.\n- You should not be using the train to get places you are not permitted.\n- The train is to be driven carefully and at controllable speeds so that it does not crash.\n\n---\n\n## Gyrocopter regulations\n\nThe gyrocopter is a helicopter which can be obtained through the SD garage that may be used for flight around the site. Since flying is dangerous, there are regulations in place for flying the gyrocopter.\n\n- The gyrocopter may be freely flown by combative personnel that hold an L3+ clearance.\n  - Non-combative personnel that hold an L4+ clearance, an L4 equivalent in a **friendly** GoI or Intelligence personnel may fly the gyrocopter freely as well.\n  - An exemption for this rule is made for Highway Patrol personnel who have completed their gyrocopter certification.\n- You should not use the gyrocopter to get places you are not permitted.\n- The gyrocopter may not be flown in high population areas. (E.g. TSCZ or CISCZ)\n- The gyrocopter should be driven at a controllable speeds to limit crashing.\n  - In the event that the gyrocopter crashes and the blades fall off, you are expected to discard of them within any bin as soon as you can.\n  - If your team regulations allow for the rotor blade to be used for combat instead, then you are allowed to use it.\n- The Research & Studies Department may freely use the gyrocopter for testing purposes.",
+   "idList": "6278016ad203c450e705e193",
+   "name": "Rule C4 | Vehicle Operation Regulations",
+   "pos": 294911,
+   "shortUrl": "https://trello.com/c/GfrcF0lR",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e201",
+   "closed": true,
+   "dateLastActivity": "2024-11-30T15:39:44.273Z",
+   "desc": "For the safety of non-combatant personnel, during times they are taken hostage the following regulations should be followed to ensure no unnecessary damage is caused to hostages. The following document details these regulations and can be found here:\n\n[https://docs.google.com/document/d/1Iy9Wccg8Pj5t3p5uo5acBRC_Sl1ZlhnqJKshUjipCdY/edit](https://docs.google.com/document/d/1Iy9Wccg8Pj5t3p5uo5acBRC_Sl1ZlhnqJKshUjipCdY/edit \"smartCard-inline\")\n\nViolating any of these regulations can make you liable to receive an infraction.",
+   "idList": "6278016ad203c450e705e193",
+   "name": "Rule C5 | Hostage Regulations",
+   "pos": 327679,
+   "shortUrl": "https://trello.com/c/Pa4jBG7u",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e1ff",
+   "closed": false,
+   "dateLastActivity": "2022-05-13T19:20:08.656Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e194",
+   "name": "Inmate & Contained Specimen Regulation",
+   "pos": 65535,
+   "shortUrl": "https://trello.com/c/IhRaUyeV",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e21d",
+   "closed": false,
+   "dateLastActivity": "2026-03-07T02:37:00.156Z",
+   "desc": "Inmates held in Corporation sites are to follow a strict behavioral code. Failure to do so may result in a termination of the Subject.\n\n‌\n\n- Security Department Personnel may follow their termination guidelines in their own handbook, even if they are not found here in the Code of Ethics. The handbook may be found here: [https://trello.com/b/t7X77BIf/tsc-security-department-handbook](https://trello.com/b/t7X77BIf/tsc-security-department-handbook \"smartCard-inline\")\n\nInmates must be terminated under the following conditions:\n\n- An inmate is outside their containment zone without a valid escort or a proper tag for a site event.\n  - Combatants reserve the right to not terminate and instead re-capture a subject if they are found outside of their containment zone and not showing any signs of hostility. During EOP Red+ combatants must terminate all roaming subjects.\n- An inmate is over their containment zone’s kill line or climbing.\n  - Inmates that are pushing, throwing, or carrying others over the termination line are liable for termination.,\n  - Inmates who have been pushed over the line follow a 3 second grace period to move off the line before termination, and those who were thrown or carried are to be taken back over the line.\n- The inmate has contraband.\n- The inmate is wearing a large accessory that inhibits a combatant’s ability to see whether or not they are carrying contraband or are wearing accessories that look like contraband or is wearing an accessory covering their entire avatar or more.\n  - Inmates that wear outfits that resemble any hostile teams may be downed as a precaution by combatants if there are any doubts in the true allegiance of the subject.\n  - Inmates that wear accessories that are considered leaked infected assets and that are actively attempting to mimic an infected (refer to C3 for more information on such assets).\n- An inmate is hostile towards personnel or other inmates.\n  - Inmates may act hostile towards each other if in the boxing ring or have signed the liability waiver.\n- Inmates are using the fire extinguisher in a hostile or disruptive manner (examples: Spraying it over the line, using it to obscure combatives vision, etc.)\n- Inmates are destroying equipment belonging to personnel or corporation equipment.\n- The inmate is actively assisting other hostile inmates. This includes but is not limited to healing, reviving, shielding, or giving items for purposes of extended hostility.\n- The inmate is outside of the cell blocks during a TSCZ lockdown.\n  - TSE Surgeons can be allowed outside the cellblocks as long as they remain inside the TSCZ med-bay and do not let other subjects inside.\n  - Combatant L4+ may authorize security forces to cuff and relocate test subjects to a secure location to deal with breaches within the TSCZ cellblocks.\n- The inmate is outside their containment zone during a raid. (Regardless of the presence of an escort.)\n- An inmate is showing signs of progressing infection (of any hazard; radiation, specimen infection, etc.) within their containment zone without the ability to decontaminate them immediately.\n- The inmate is on the kill-line and refuses to move off of it after a warning shot.\n- An inmate is opening a ventilation shaft or manhole or is standing within proximity (5 studs) of a ventilation shaft or manhole. This increases to 15 studs when the ventilation shaft is open. (One stud is an R6 character’s arm-width).\n  - Images showing the limit of the 5 studs and 15 studs radius can be found at the bottom of this section. When an inmate crosses into this threshold, with the intention to open/enter a vent or not, they are considered KoS.\n  - Note: The “impossible vent” is not an escape route and therefore does not apply to this instance.\n  - Combatants reserve the right to disperse test subjects away from the proximity of an escape route as long as there are 3 or more subjects near it. If the test subjects fail to move away from a 15-stud distance of the escape route they may be terminated.\n  - Inmates actively running towards an open escape route may be downed by combatants.\n- An inmate is currently under any long-lasting visual or statistic-altering effects outside of testing. (examples: extra health, height changes, mutations, etc.)\n  - Height changes from eating sandwiches do NOT count towards this.\n- The inmate is covering another inmate that’s opening an escape route.\n- The inmate is actively utilizing moving objects to obstruct escape routes.\n- The inmate is actively throwing mass amounts of any item around.\n- The inmate is undergoing an MD Pale Virus examination, and the MD personnel in charge has concluded the event and have requested their termination.\n- An inmate is located outside the cell blocks during a system riot.\n- Inmates who are due for SC may be **stunned** in order to grab them more easily.\n- An inmate is lighting grease on fire to purposefully block off areas or obstruct combatives.\n- Inmates that are within 10 studs of downed personnel may be stunned, they may instead be downed if they’re within 10 studs and have a melee weapon out.\n\nNote: You must confirm that an inmate has performed any of the actions listed above before termination. Termination based on assumption is prohibited. This does not apply to the 294 effects sub-point.\n\n---\n\n### Building\n\nInmates who possess the ability to use the building system have additional conditions for termination:\n\n- Fortification of Places of Interest or using props to aid inmates in terminable offense(s) or escape from termination.\n  - Blocking off entrances and passages (Doors, Hallways, Ladders, Vents, etc.)\n  - Creating builds meant to give advantage to inmates in fighting or fleeing combatants\n- Moving or tinkering with props that combatant engineers have placed to make a cover.\n- Moving or tinkering with props while combatants are trying to destroy/move them.\n- Creating structures that may allow for inmates to gain access to restricted areas.\n- Creating structures that intentionally obstruct combative sightlines to the vents, kill line, or from any other area needed to be actively monitored.\n\nTSCZ is an area where Unauthorized Engineers (UE) may freely create structures given they are not violating what is said above, or their own building regulations. Any builds that do not grant access to unauthorized areas or do not violate the termination conditions listed should not be destroyed normally. (See **Note** below)\n\n**Note:** SET staff may destroy buildings built or compromised by test subjects during Code Red+ or during their \"Base Destroyer\" event.\n\n---\n\n### Contraband\n\nAccess cards, black market dead drop packages, items that can assist in opening ventilation or doors, and weaponry count as contraband. Items used for medical and recreational purposes are not with the exception of research vials and MD’s tools.\n\n- Items that allow test subjects to enter an authorized location such as the Kitchen-Clearance or TSE Surgeon tool are also not considered contraband.\n- Decoy Rifles, found in Aleks's Sandwich Stand in the SD armory, may only be bought by members of combatant departments. Additionally, they may only be used in logical situations, thus throwing them around with no intent of combat use is prohibited. Giving them freely to TS or members of non-combative departments is also prohibited. They are to be treated as contraband for TS.\n- The “War Banner” tool is not to be considered contraband as it is purely cosmetic and has lower damage then fists.\n\n---\n\n### Bounties\n\nInmates attempting to obtain contraband from a deceased inmate by moving to stand on or right beside them may be terminated at the discretion of the security personnel.\n\nInmates with a valid KoS (Kill on Sight) order against them may be terminated anywhere at any time until the order expires. There must be special consideration to not kill them until they leave spawn to prevent spawn killing. Inmates also automatically gain a valid KoS order if they have over a $1,200 bounty and may be killed anywhere for the duration of the bounty.\n\n- ISB agents engaging in bounty hunting may terminate any subject with any amount of accumulated bounty posted.\n\n---\n\n### Stacking\n\nTest Subjects/Contained Infected Subjects are not to be killed or harmed for stacking unless they are caught doing it to escape or get somewhere they are not supposed to be (catwalks, balcony, any TSCZ overlooks, CISCZ balcony, any of the player-count monitors).\n\n- An exception is made for the damaged watchtower with a garbage incinerator near the gym in the TSCZ.\n\n_TS/CIS may be shot/hit as a warning if they are attempting to stack to any of the mentioned places._\n\nDue to the layout of the CISCZ making it easy to escape by stacking, CIS will have less leniency and should be warned to stop stacking if they are doing it near the balcony and killed if they continue to do so.\n\n---\n\n### Surgeon Med-bay Exemption\n\nTSE Surgeons are the only test subjects permitted to enter the med-bay inside TSCZ outside of medical checkups, as well as being able to obtain and carry MD tools without being considered contraband.\n\n- Medical personnel may force out TSE Surgeons with the help of Security Forces if it is needed for an event or they are being disruptive. Surgeons may still enter to get MD tools as long as they immediately leave during this time.\n- TS who are disruptively blocking the medical post door or windows may be downed and removed from the area at the discretion of the present Security Forces guarding the post or requested by the MD staffing the med-bay. Repeated attempts are cause for termination.\n- TS who are attempting to get inside the med-bay or airlock without authorization may be terminated.\n\nMedical Department members may tag up to 2 TSE Surgeons to sit behind the non-combative line and heal Personnel. They should not be terminated if they are tagged.\n\nTest subjects may freely enter the Banquet hall and Pool room respectively.",
+   "idList": "6278016ad203c450e705e194",
+   "name": "Rule D1 | Test Subject Procedures",
+   "pos": 131071,
+   "shortUrl": "https://trello.com/c/SqiZTVHN",
+   "attachments": [
+    {
+     "id": "6876173aa79545a2f8eddde3",
+     "bytes": 514222,
+     "mimeType": "image/png",
+     "name": "GymVent 5studsnew.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e21d/attachments/6876173aa79545a2f8eddde3/download/GymVent_5studsnew.png"
+    },
+    {
+     "id": "6876173a138cfe71dcb922d8",
+     "bytes": 727149,
+     "mimeType": "image/png",
+     "name": "GymVent 15studsnew.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e21d/attachments/6876173a138cfe71dcb922d8/download/GymVent_15studsnew.png"
+    },
+    {
+     "id": "6876173a7843b1e2bf8c4434",
+     "bytes": 683812,
+     "mimeType": "image/png",
+     "name": "Manhole 15 studsnew.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e21d/attachments/6876173a7843b1e2bf8c4434/download/Manhole_15_studsnew.png"
+    },
+    {
+     "id": "6876173ac0655cf415a5b6a3",
+     "bytes": 739323,
+     "mimeType": "image/png",
+     "name": "Manhole 5 studsnew.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e21d/attachments/6876173ac0655cf415a5b6a3/download/Manhole_5_studsnew.png"
+    }
+   ]
+  },
+  {
+   "id": "6278016ad203c450e705e1e9",
+   "closed": false,
+   "dateLastActivity": "2025-11-02T03:02:34.268Z",
+   "desc": "In order to deploy as Test Subject whilst being in a department/division you must complete the departments quota and complete the TS deployment requirement in the department/division that grants you your highest clearance. L4+ Personnel of a department/division who do not require permission to deploy on Test Subject team unless otherwise specified, may authorize people who are in a department/division to deploy as a Test Subject, even if they have not completed their quota.\n\nLevel 5+ personnel from that same department/division may order you to undeploy with valid reasoning unless a listed exception was met. A baseline for valid reasoning is the following:\n\n- Deployment on Test Subject while they are on LoA in their departments\n- Disciplinary action was taken upon personnel that involves TS deployment\n- Department Co-Head+ from your highest department may force you off with their respective authority provided their reasoning does not contain any malicious intent\n\nThere is no restriction on how many times you may deploy in a week or for how long each time, however departments may set further restrictions on time and length.\n\nNote: A baseline for these restrictions must be that departments/division must grant free TS deployment for at least **one day** upon completion of the departments/divisions quota.\n\nOnce ordered to undeploy with valid reasoning, there will be a period of 3 hours where personnel may not deploy on the Test Subject team. Once that cooldown has ended, they may not be ordered off the Test Subject team for the remainder of the day granted that they have met the requirements to deploy and are not on LoA or undergoing punishment that involves TS deployment.\n\n- An exception is made for the Security Department's \"One Life Rule\" where personnel whose highest clearance comes from SD may not deploy on TS when the site EOP is Red+, or there is any other on-going emergency. Personnel who were on prior to the emergency may stay on TS for the remainder of their life. This rule also applies to members of the SD/U&M’s Security Engineering Team, if U&M or SD is their highest clearance department. The only exception to this rule is if the person is a High Class Test Subject/Steeleburger Guard+ or attending an official TSE event.\n\nIf authorized by your department, you may deploy at any time for any length of time. If the department your highest clearance is in allows this then L5+ personnel in other departments you are a member of may have you undeploy unless you have completed that department’s quota. This means permission from the next highest supersedes any orders to undeploy in departments granting lower clearance.\n\nNote: If your highest clearance is granted through multiple departments at once, the departments whose rank is higher in accordance to the departments Chain of Authority takes priority. If the Chain of Authority is the same, the department whose member count is the highest restrictions apply.\n\nHigh Class Test Subjects, Steeleburger Guard+, and Contained Infected Subject HRs may freely deploy on the Test Subject team without permission if they are in a department, however they may be forced off by their Department head or co-head to deploy on their department in accordance with the guidelines above.\n\n- The exception for this is when they are hosting or co-hosting an official event for Test Subjects/Contained Infected Subjects.\n- Trial High Class Test Subjects/Trialing Contained Infected Subject HRs are only exempt from deployment regulations when they are hosting or co-hosting an official event for Test Subjects.\n- High Class Test Subjects/Steeleburger Guard+/Contained Infected Subjects HRs may be forced off by L5+ personnel in their highest clearance department if they have not completed their quota. It is important to note that they must be forced off personally and only used when necessary.\n\nNote: In order to use the exception, proof must be shown that the HCTS/CIS HR in question are listed as either the host or co-host in the event announcement.\n\nDepartment Co-Head+ are exempt from these regulations.\n\n### TS Deployment Regulations for Lore Acting Department Members:\n\nYou may freely deploy on the Test Subject team, overriding TS deployment regulations from your other departments, if you are a member of the Lore Acting Department and you have a Test Subject acting character.\n\n**Note:** You **MUST** be _in-character_ during the duration of your TS deployment.\nIf you're deploying on the Test Subject team _out of character_, you must follow TS deployment regulations from your highest ranking department.",
+   "idList": "6278016ad203c450e705e194",
+   "name": "Rule D2 | TS Deployment",
+   "pos": 163839,
+   "shortUrl": "https://trello.com/c/MkyDp6Jw",
+   "attachments": []
+  },
+  {
+   "id": "628f988b4338ff4c5ae2707f",
+   "closed": false,
+   "dateLastActivity": "2026-06-24T01:59:41.062Z",
+   "desc": "Combatants may put rioting or excessively hostile TS in a cell for up to 20 minutes at a time depending on the situation. Without solitary confinement, securing the TSCZ would be extremely difficult as TS could cause problems immediately after they respawn. Due to limiting their capacity to perform actions certain rules apply:\n\n- A “rioting” Test Subject is considered to be any TS who has received any amount of strikes.\n  - Test subjects which riot during a System Riot event do not earn strikes for being terminated.\n- A subject that has gained 3 strikes by violating D1 a total of 3 times (not necessarily being terminated) is subject to being put in solitary.\n  - Strikes can be shown with the strike gun or combative may keep track of them on a notepad for each subject they see violating D1.\n  - If you have access to the Strike Tracker, you are **strongly encouraged** **to use it** when are striking a Test Subject for violating D1. If you do not have access due to department restrictions, you should use `!notepad`\n- If a Test Subject is found to be rioting a sufficient number of times, they will be put in Solitary Confinement for no less than 10 minutes and no more than 20 minutes at a time.\n  - Non-Combatives may not mess with the Solitary Confinement timer at all.\n- Strikes for Solitary Confinement have a 10-minute lifetime before being deemed invalid as long as the subject has not been rioting during those 10 minutes. Rioting is defined as being liable for termination as by D1.\n- The combative who is to put a Test Subject into solitary is to be held responsible for releasing that same Test Subject on time. Failure to do so may result in consequences.\n  - A 5-minute leeway should be given to allow the original combatant time to remove the Test Subject from Solitary.\n\nSecurity Forces will normally follow the initial 3-strike rule unless otherwise stated by site protocols, which will evolve as additional time in Solitary Confinement progresses:\n\n- There may be times that security forces may authorize placing a subject into solitary confinement for fewer instances of rioting.\n- If a Test Subject continues to riot immediately after being released, they shall be returned to Solitary Confinement under a one-strike rule. “Immediately” is considered up to 10 minutes after being released from Solitary Confinement.\n\nContained Infected Subjects follow the same regulations as test subjects when it comes to solitary confinement.\n\n---\n\n**Heavy Solitary Confinement**\n\nThe Heavy Solitary Confinement Zone is a more secure location that requires 2 personnel to operate effectively and is to be used for cases when normal solitary confinement is not enough or if the subjects are particularly problematic. Guidelines for the use of Heavy Solitary are listed below:\n\n- TS with an active KoS order has accumulated 2 strikes for SC\n  - The KoS order itself does not count as a strike for this purpose\n- TS has escaped from Solitary twice\n  - There may be times when security forces may authorize Heavy Solitary for fewer escape attempts\n- TS that has been placed into SC multiple times in the past 45 minutes\n- A valid site protocol authorizes heavy solitary for fewer strikes than usual\n- All standard Solitary rooms are filled\n\n---\n\nNote: Test Subjects may be downed to put them into Solitary Confinement as a last resort if it proves difficult to catch the subject running away or avoiding capture for Solitary Confinement.",
+   "idList": "6278016ad203c450e705e194",
+   "name": "Rule D3 | Solitary Confinement ",
+   "pos": 180223,
+   "shortUrl": "https://trello.com/c/d27h1YK5",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e22d",
+   "closed": true,
+   "dateLastActivity": "2024-05-31T16:41:23.448Z",
+   "desc": "The TSCZ is a place where you will find most of the usually volatile Test Subjects, and because of their nature regulations below have been put in place to prevent some casualties.\n\nThe TSCZ starts from the break room exit to the inner TSCZ, and goes all through up until the entrance to the pool locker room which is located past the bathrooms. The TSCZ also extends to the gate to the Banquet Hall and the doorway to the kitchen. These locations have additional requirements for test subjects to enter which will be listed later in this section.\n\nPersonnel should not enter the TSCZ unless they match at least one of the following:\n\n- A combatant.\n- A member of EC, ISB, or ER.\n- Personnel of security clearance of 3 or higher.\n- Personnel of security clearance of 2 may only enter for up to 10 minutes in order to do their departmental duties or perform simple tasks such as asking questions or letting others know of something. This 10 minute timer may be enforced by security personnel guarding TSCZ, but is recommended to be left to EC to handle it. Loitering with no business being inside is not permitted.\n\nIn the interest of safety and minimal distractions for security personnel, non-combatants should stay behind the red combative line unless there is a reasonable excuse to pass. Personnel who decide to cross it are to do so at their own risk and are recommended to have a security escort to ensure their safety.\n\nSecurity personnel withhold the right to request non-combatants to leave the inner TSCZ, or TSCZ altogether if they are causing a disruption or are being a hazard to others.\n\n- Exceptions include EC, ISB, ER, AD, and mod personnel if necessary to perform their duties.\n\nCIP should not pass the red line during an active breach due to a high chance of being misidentified or injured from anti-biohazard tools. An immune security escort is recommended to ensure their safety or clean up a potential biohazard.\n\n- Special note: Under no circumstances can a CIP pass the red line during an active breach of Specimen-239.\n\n---\n\nTest subjects may freely enter the Banquet hall. The Medbay located next to the banquet hall may only accessed by subjects who are undergoing a valid medical examination.\n\nThe TSCZ Kitchen may be freely accessed by test subjects who carry a kitchen-clearance card. Any subject who does not have a kitchen-clearance card is prohibited from entering the kitchen. Any personnel authorized to freely enter the TSCZ may freely access the kitchen, but is recommended to have a security escort due to the ease of access by test subjects.\n\nThe pool locker room and poolroom are able to be entered freely by test subjects but it is recommended that combatants actively protect it when there are a large group of subjects using the pool. Any of the hallways past the poolroom are restricted to test subjects.\n\nThe medical station inside the TSCZ Commons is restricted from subject access at all times and medical personnel should have at least 1 combatant present to ensure their safety inside the station.",
+   "idList": "6278016ad203c450e705e194",
+   "name": "Rule D2 | Entering TS CZ",
+   "pos": 196607,
+   "shortUrl": "https://trello.com/c/h0EYbNrB",
+   "attachments": []
+  },
+  {
+   "id": "66a8faf6ba1ff20938e6959d",
+   "closed": false,
+   "dateLastActivity": "2025-12-24T15:45:37.244Z",
+   "desc": "### Contained Infected Subject and Infected Subject Information\n\nContained Infected Subjects are people hired to act as infected on-site. These users are the ones who are seen as infected’s in the Contained Infected Subject Containment Zone, and have been trained to act out being a character of their choosing. They can either be OOC (Out of Character) or IC (In-character) both of which have different regulations. OOC CIS would have their username showing as well as their CIS rank in their rank-tag. IC CIS will have “CIS-XXXX” and not have a rank-tag visible.\nThe other type of users you may see are people with the tags that only have “Infected” in them. These are Test Subjects that have not been hired to act, and are from tests that either an RSD or MD hosted; alongside this VP may take CIS to various locations within the site if escort ratios are followed. If within the CISCZ, escort rules can be relaxed, given a free-roam is authorized. VP may not take CIS to Sector 2 given alarm triggers and regulation contradictions. Rehabilitation events are ethically valid as long as a VP follows the requests of a CIS given they do not harm anyone. This is stated here to not cause confusion.\n\nSummary:\nIC = In-character (Acting as a character)\nOOC = Out-of-Character (Not acting as any character)\nIS = Infected Subject (an infected TS, not an actor)\n\nWhile the rules below should be followed by all combatives, when dealing with infected individuals, you should attempt to find an immune combative to handle the situation if you are not immune.\n\n---\n\n### General Policy\n\nWhen confronted with a CIS, you should not immediately start firing unless they are actively showing hostility towards you. (Shooting first, running at you with fists, etc.)\n\n#### Encountering an IC CIS\n\nIC CIS will normally be passive when encountered all have different reactions to personnel due to them being in-character. With them, you should also not fire immediately similar to the OOC encounter guidelines. However, instead of going straight to leading them back, you are allowed to make conversation with the subjects. Perhaps to find out why they may have escaped, if they would like to go back, stuff that will make the interaction more intriguing for both parties.\nIf you are not one for acting or interacting with the CIS, you may ask for an immune or another combative to handle the situation.\nThe CIS is to be brought back to CISCZ but more preferably with an immune/QIE (Qualified Infected Escort). If none are available at the time, you may cautiously bring the CIS back to containment.\nWhen brought back to CISCZ, you may ask them to hand over any contraband they may have or check them with the wand before they are let back in.\n\n- Items that are given through the “faction” system are not to be considered contraband if the CIS is wearing the appropriate uniform.\n- Guns, such as the “Model-870” are still to be considered contraband.\n\nIn summary:\n\n- Assess whether or not CIS is hostile\n  - Hostile; attempt to have them stand down before firing upon them.\n    - Hostility can be shown as harming you or others and running at you with any weapon (including fists).\n    - Singular acts of hostility do not count as “hostile”.  Continuous acts do.\n  - Passive; take time to interact with the subject. Ask for them to drop any contraband they may have.\n    - If non-compliant, you are **NOT** to shoot at the CIS. Try to speak to them, or allow another combative to handle the situation.\n- Call for an immune\n  - No immunes; escort the CIS back to CISCZ without cuffs.\n  - Immune response; have them take the CIS back and continue normal duties.\n\nIf the CIS you encounter has special abilities that would make recontaining more difficult, (Tiger shark speed, hypnosis, Squog endurance, etc.) you are able to take less precautions when handling the situation.\nThis means, you are able to be less lenient when assessing for hostility or non-compliance.\n\n#### Encountering an OOC CIS / Chamber Infected\n\n- OOC CIS follow all termination guidelines inside of D1 essentially making them TS, they will be KOS outside of CISCZ\n- Chamber Infected will also follow all termination guidelines inside of D1, but will only be KOS outside of their respective chambers.\n\n---\n\n### **Infected Subject Termination Policies**\n\nThese subjects are not to be treated as lightly as actors. They are considered TS still and have termination policies similar to the ones stated in D1. These are the termination guidelines for Infected subjects.\n\n- Showing hostility (harming any other person or subject, infecting personnel)\n- Inside of the any ventilation, including BM\n- Wielding any contraband\n- Outside of inner CISCZ (On the road is considered OUTER CISCZ and may be terminated there)\n- Using any vehicle\n- Stacking more then 3 players (Punching bag counts as 1 player)\n- Found in any area they are not authorized to be\n  - Upper CISCZ or onto the ramp. They may be there if they have specific permission\n- Caught breaking the cover in the ball pit\n- Caught attempting to open BM vent\n- Going onto rafters or any high places (following climbing rules)\n\nInfected subjects that are within the CISCZ without the proper Immune ratios being met are permitted to be terminated; as they create a huge risk factor.\n\n---\n\n#### Climbing Rules\n\n- Any CIS may use the vent into the spider wolf den, which is behind a bookcase in inner CISCZ. They are allowed to stay in the room it leads to, but cannot go into rafters itself.\n- Any CIS may climb onto the rafters located in the pool section.\n\n---\n\n### Notes\n\nCIS (both **OOC and IC**) that are currently under any long-lasting visual or statistic-altering effects (from any testing equipment such as the vending machine, static chamber, etc.) **outside of testing** are allowed to be terminated. (Examples of such effects being: extra health, height changes, etc.)\nBefore termination, you **must** have a reasonable suspicion that they are under the effects of the vending machine contents if you are not able to properly evaluate their stats. (Similar to the D1 regulation regarding TS and 294)\nWays to check include; medical personnel’s “Health Analyzer”, observing any speed increase/decrease, or observing whether they have grown/shrunk in height.\n\nThese are base guidelines for combatives who encounter any kind of IS/CIS. The immune combatives, (RECON) are to follow their guidelines that are stated in their handbook.",
+   "idList": "6278016ad203c450e705e194",
+   "name": "Rule D4 | Contained Infected Subject Procedures",
+   "pos": 245759,
+   "shortUrl": "https://trello.com/c/j5rRDmkN",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e20d",
+   "closed": true,
+   "dateLastActivity": "2024-10-13T13:23:18.245Z",
+   "desc": "The Contained Infected Subject Containment Zone (CISCZ) houses mostly docile specimen that are selected to be further studied by the corporation. Their docile nature does not eliminate their biohazard status and must still be handled with extra caution. The following rules apply to the CISCZ and by extension the Unit 3 area when CIS are present:\n\n- Only personnel with a level 3 clearance or higher may enter the CISCZ.\n- Non-combatants are permitted to remain inside the CISCZ on the top floor only when there’s at least one combatant present in the CISCZ. If the combatant leaves then the non-combatants must also leave until there is another present within the CISCZ. Personnel may enter to determine if there is a combatant present, but must leave once they find that there is none inside. This rule extends to Unit 3 only when CIS are present outside the CISCZ in Unit 3. Non-combatants are then to stay behind the yellow line when entering U3.\n- Combatants with partial or full infection immunity are allowed to enter the bottom floor of the CISCZ for any reason.\n- Non-combatants may only enter the bottom floor of the CISCZ with permission of the present combatants and an escort of at least 2 partially or fully immune to infection combatants.\n- CIP (Contained Infected Personnel) and immune non-combatants may enter the bottom floor of CISCZ as they please as long as there is at least 1 combatant present within the CISCZ to watch over them.\n- Non-immune combatants are not allowed on the bottom floor of the CISCZ unless they are given explicit permission by present Recontainment Unit personnel for a valid reason, or other immune combatants if RECON is absent. If no Immune combatants are present to grant permission then the bottom floor may be entered if it’s required to fulfill their duties with good reason. Duties are enumerated within the combatant's departmental handbook or GoI Contract and should not deviate from them unless there is an immediate exigent circumstance to do so. They may roam around the entirety of Unit 3 freely even with CIS presence.\n- Combatants reserve the right to tell non-combative personnel to leave the CISCZ or Unit 3 if they are acting in a disruptive manner or are a hazard to themselves, the CIS, or others. If their safety is threatened by imminent or ongoing inmate aggression then they may also by told to leave.\n- RECON has the highest authority within the CISCZ, and Unit 3 when CIS are present, during code green and blue. For all other codes or reasons RECON members are to refer to the Security Department Chain of Authority. Additionally, RECON are permitted to order any non-infection immune combatants out during aforementioned cases with good reason.\n- RSD, U&M, EC, and ER may bypass the clearance level restriction to enter CISCZ if it's required to fulfill their duties.\n\nThe CISCZ officially begins at its door entrance within the Unit 3 Containment zone area. The top floor of the CISCZ begins from the door entrance and ends at the balcony overlooking the bottom floor, CISCZ Solitary, and the Observation room. Anything beyond that is classed as the “bottom floor”.\n\nUnit 3 officially begins at the roadway gate and 2 side doors and ends at the CISCZ entrance and the Unit 4 checkpoint.",
+   "idList": "6278016ad203c450e705e194",
+   "name": "Rule D3 | Entering CIS CZ",
+   "pos": 262143,
+   "shortUrl": "https://trello.com/c/GovzJk34",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e219",
+   "closed": false,
+   "dateLastActivity": "2022-05-08T17:44:11.337Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e195",
+   "name": "Experimentation Restrictions",
+   "pos": 65535,
+   "shortUrl": "https://trello.com/c/670apSue",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e221",
+   "closed": false,
+   "dateLastActivity": "2026-01-02T08:53:00.670Z",
+   "desc": "Research and Studies Department personnel are permitted to violate all **except for** the Behavioral Guidelines and Abuse & Misconduct sections (A & F) of the Code of Ethics during active testing as long as all combative escorts consent to it and it doesn’t threaten site operations. _RsD personnel may violate section F if it's within reason, for example: giving TS weapons for a test procedure._\n\nAdditionally, RsD is freely permitted to test personnel with their consent. If a Researcher decides to use personnel, they are to fully abide by their wish to withdraw consent at any time.\n\nIf a section of the Code of Ethics is going to be violated, you must inform everyone present during the first briefing. This is to prevent anyone from being told too late or not told at all, which could lead to miscommunication and infractions, or slowing down the research efforts.\n\nEthics Committee Agents may intervene when there’s an actual threatening situation: the researcher is risking a breach, cramming infected into a tiny room, etc. Minor mistakes will attempt to be corrected first instead of shutting down the testing and RsD HRs will be contacted.\n\nNote: This exemption only applies to the actual RsD performing the valid testing. RsD personnel will be held liable for Code of Ethics violations if their testing is unauthorized.\n\n---\n\nEthics personnel withhold the right to shut down a test for the following reasons:\n\n- The test or person responsible for the test is directly violating the Code of Ethics not outlined in the exceptions listed above\n- The test is insufficiently secured for the risk involved, i.e. the test is not following RsD escort regulations:\n- ⚬  _4 TS per each Primary / Secondary escort_\n- ⚬  _5 TS per each High Priority escort_\n- ⚬  _8 TS per each Juggernaut Unit (JU)_\n- The test host is attempting to access a high-security area without the correct RsD ranking\n- Test Subjects have not received a full briefing\n- Site security level was set to code GAMMA or above\n\nIn an emergency, Ethics personnel can shut down a test for other reasons, given they can explain their actions afterward.\n\n---\n\nIn the event of the EOP system being changed to code RED, the host must stop the event and evaluate if the threat is located in the sector their test is currently located in. If the threat is located within their sector, the following procedure must be carried out for the test by the present staff:\n\n1. Inmates must either be terminated, returned to their containment zone, escorted to a secure location, or left at the site of the event at the discretion of security staff.\n2. Present security staff should escort all non-combatant personnel present at the event to a safe area.\n3. Once the event has been terminated and all staff are safe, security staff should proceed with their regular response to the type of incident,\n4. If the test has already made its way to the Containment Zone and present combatants deem it safe enough to continue the test, the event may be continued.",
+   "idList": "6278016ad203c450e705e195",
+   "name": "Rule E1 | Test Shutdowns",
+   "pos": 131071,
+   "shortUrl": "https://trello.com/c/El9aP8gv",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e223",
+   "closed": false,
+   "dateLastActivity": "2025-06-26T01:54:59.570Z",
+   "desc": "Combatants should only ever decline escorting a test if they have a valid reason. Valid reasons for declining a test escort are as follows:\n\n- The RsD requesting the test is an Trainee or if the MD requesting a checkup is below the rank of Nursing Student without a supervisor\n- The TSCZ/CISCZ would not be properly secured without the combatants in question (At least 2 security must remain inside TSCZ to guard)\n- The only available combatants do not have the necessary tools to secure the test\n- There is currently an identified CIS or breached specimen in the TSCZ or around it\n- The situation in TSCZ is nearing a riot OR there are multiple problematic TS causing problems within the TSCZ\n- There is currently an event in which SD personnel are partaking UNLESS said event involves testing\n- There is an identified breached and confirmed hostile specimen somewhere in the CTZ\n- There is an ongoing sitewide emergency i.e.: Breach, Raid, Riot, CTZ Lockdown, etc...\n\nIf a combatant is seen denying test escorts for minuscule reasons, such as a personal grudge against the RsD in question, they will get infracted by EC. However, said combatant may be given more leniency on that, provided they have a good reason which is not specified on this list. If the reason provided by the combatant is seen as not fit, the combatant will be infracted.\n\n---\n\nDuring any on-site event, the combative ratio of Infected Subject (IS) or Test Subject (TS) should be the following:\n\nNormal Security Forces : Test Subjects > 1:3\n\nRecontainment Unit/Special Operations : Test Subjects > 1:4\n\nJuggernaut Unit : Test Subjects > 1:8\n\nRecontainment Unit/Technical Task Squad : Infected Subject  > 1:3\n\nJuggernaut Unit : Infected Subjects > 1:6\n\nOnly paired RAH assets may escort hadron tests when requested by the host. RAH ratios are as follows:\nLight Pairs: 1:6 Test Subjects, 1:4 Infected Subjects\nHeavy Pairs: 1:8 Test Subjects, 1:6 Infected Subjects\n\nEach combatant present in a test escort increases the maximum ratio by 1. Example being is if there’s 3 Normal Security Forces escorting a test, they would be able to escort 11 TS in total (3 + (3+1) + (3+1).\n\nRSD Do not follow the rules above and instead have full control over their own escort ratios, further information about the ratios can be found in the [RSD Handbook](https://trello.com/c/Hk7ZOD2t/29-combatants-escorting \"‌\").",
+   "idList": "6278016ad203c450e705e195",
+   "name": "Rule E2 | Combatant Escort Procedures",
+   "pos": 196607,
+   "shortUrl": "https://trello.com/c/LtvtFa3O",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e215",
+   "closed": false,
+   "dateLastActivity": "2026-08-29T03:22:01.576Z",
+   "desc": "Scientific equipment is the equipment found around the facility (such as the centrifuge, instance 294 (coffee machine), the acid pit, radiation chamber, static chamber, hadron collider, vehicle testing chamber, incinerator, and Unit 1 Labs.) and is meant for scientific testing and scientific testing alone except instance 294.\n\nMisuse of scientific equipment would be:\n\n- Using the equipment without the supervision of a scientist.\n- Testing on the equipment without being a scientist.\n- Using the equipment as a scientist during an unethical test.\n- Abusing the equipment as a scientist in hopes of breaking it during a test.\n- Abusing equipment as a non-scientist in hopes of sabotaging a test.\n- Using the TSCZ testing queue buzzer outside of testing conditions.\n\nThese rules only apply to staff members and external combatants. (Security forces are counted as staff members.)\n\nU&M may utilize the incinerator to dispose of trash bags.\n\nSpecialists may use testing equipment outside of testing permeters.\n\n- Specialist Instructors+ are permitted to allow CIS Analysts to use testing equipment within a specialist event.\n\n**There are more regulations regarding instance 294 in rule C1.**\n\n_Until the Medical Department gets its equipment, they will be counted as scientists when doing medical tests._\n_Veterinarian Program personnel may freely use vials for rehabilitation purposes._",
+   "idList": "6278016ad203c450e705e195",
+   "name": "Rule E3 | Misusing Scientific Equipment",
+   "pos": 229375,
+   "shortUrl": "https://trello.com/c/NbvkryJR",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e1fd",
+   "closed": true,
+   "dateLastActivity": "2024-05-31T16:43:45.365Z",
+   "desc": "Combatives should only ever decline escorting a test if they have a valid reason. Valid reasons for declining a test escort are as follows:\n\n- The RsD requesting the test is an Assistant Researcher or if the MD requesting a checkup is below the rank of Nursing Student without a supervisor\n- The TSCZ/CISCZ would not be properly secured without the combative in question (At least 2 security must remain inside TSCZ to guard)\n- The only available combatives do not have the necessary tools to secure the test\n- There is currently an identified CIS or breached specimen in the TSCZ or around it\n- The situation in TSCZ is nearing a riot OR there are multiple problematic TS causing problems within the TSCZ\n- There is currently an event in which SD personnel are partaking UNLESS said event involves testing\n- There is an identified breached and confirmed hostile specimen somewhere in the CTZ\n- There is an ongoing sitewide emergency i.e.: Breach, Raid, Riot, CTZ Lockdown, etc...\n\nIf a combative is seen denying test escorts for minuscule reasons, such as a personal grudge against the RsD in question, they will get infracted by EC. However, said combative may be given more leniency on that, provided they have a good reason which is not specified on this list. If the reason provided by the combative is seen as not fit, the combative will be infracted.",
+   "idList": "6278016ad203c450e705e195",
+   "name": "Rule E3 | Combative Escort Procedures",
+   "pos": 262143,
+   "shortUrl": "https://trello.com/c/q97mgxVA",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e21f",
+   "closed": false,
+   "dateLastActivity": "2025-01-19T00:45:34.880Z",
+   "desc": "Due to the nature of site events and potential dangers encountered by testing, certain regulations are in place to assist the essential employees of the corporation in performing their events properly.\n\nTo help the process go smoothly and reduce the overall danger, a list of restricted actions for personnel accompanying the site event would be as follows:\n\n- Personnel should stand at least 4 studs away from the windows in an observation room during an active test event.\n- Personnel must refrain from opening or closing doors that have not been specifically instructed/allowed to open or close during an active test event unless it's required to participate in spectating the test. Opening the containment doors without special instruction during a test event, or afterward with present specimen or subjects inside, is strictly prohibited.\n- Accompanying Personnel should not stand in between the subjects and the event host to avoid confusion in the subjects and so the event may be communicated clearly. Security personnel may freely do so for briefing and searching subjects. Security may also do so if the event host is being threatened by the subjects or if directed by the event host.\n  - Spectators must not stand between the subjects and either the event host or security escort at any time unless it's required.\n  - Spectators must not interrupt the event by attempting to speak to the subjects or being in the way of the event host while they are trying to communicate.\n    - Being a general annoyance to the event host may result in your dismissal from spectating the event.\n\n---\n\nPersonnel spectating any site event must ask for permission to do so from the event host unless the host states that anyone may freely spectate. The event host may also at any time dismiss you from spectating the event depending on departmental regulations that limit them or additional concerns from the host such as event interruption.\n\nThe following individuals may spectate freely unless found to violate any of the above-restricted actions or they are restricted by the security clearance required in special cases for Unit-4 testing:\n\n- Administrative Staff\n- ISB\n- EC Board Agent+ (EC Board Member+ for Unit-4 tests)\n- Supervisors to the event host\n\nFailure to follow all instructions from the security escort or perform any of the listed restricted actions may result in your removal from the event.",
+   "idList": "6278016ad203c450e705e195",
+   "name": "Rule E4 | Event Spectator Etiquette",
+   "pos": 737279,
+   "shortUrl": "https://trello.com/c/VXwSalsi",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e203",
+   "closed": false,
+   "dateLastActivity": "2022-05-13T19:32:07.010Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e196",
+   "name": "Abuse and Misconduct",
+   "pos": 65535,
+   "shortUrl": "https://trello.com/c/k87w4gFm",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e1f1",
+   "closed": false,
+   "dateLastActivity": "2025-05-09T20:50:01.077Z",
+   "desc": "F1 infractions are almost if not always **added onto** original punishments as another infraction depending on the situation.\nExploiting loopholes within any rules will result in harsher punishment(s) depending on the rule broken.\nLying to intelligence personnel will make you liable for an F1 infraction;\n\n- Lying in an attempt to incriminate an innocent person or to try and get out of your original punishment will result in a harsher verdict.\n- Lying to intelligence to intervene with their duties will also make you liable for an F1 infraction.\n\nViolators intentionally evading intelligence personnel while they are engaged in their official duties will be met with a F1 infraction on top of their original punishment. (Including but not limited to; leaving while being questioned, running from intel personnel, etc.)",
+   "idList": "6278016ad203c450e705e196",
+   "name": "Rule F1 | Loopholes & Exploitations",
+   "pos": 262143,
+   "shortUrl": "https://trello.com/c/tXujv37p",
+   "attachments": []
+  },
+  {
+   "id": "628d160a0d5d81079707febd",
+   "closed": false,
+   "dateLastActivity": "2026-01-02T08:53:13.056Z",
+   "desc": "The attempt to or having another individual plan to perform a harmful action against other people (test subject or personnel) with malicious intent through means of:\n\n- Hiring hitmen or setting bounties that grant rewards of any type.\n  - An exemption is made for the SD Assignments board as well as the KOS orders from both SD and Maxiburger.\n  - Maxiburger KOS orders can only be fulfilled within the Maxiburger establishment.\n- Personnel planning to intentionally violate the CoE including when teamed on TS without authorization.\n- Personnel planning on purposefully disrupting site events including when teamed on TS without authorization.\n- Making serious threats against other personnel (i.e. threatening to terminate personnel in order to disrupt their duties).\n- Using or publishing information from personnel only communication channels with the intent to aid hostile forces (i.e. streaming staff communications to users on Test Subject or otherwise hostile teams).\n\n---\n\nPersonnel who are found performing any of the actions below are to be deemed as “going rogue” (referred to as a rogue). Suspected rogues may be apprehended by any personnel that can safely capture them and be reported to an Ethics Committee Agent as soon as possible:\n\n- Personnel dropping or willfully giving access to equipment or tools to TS/CIS/CIV or otherwise hostile forces (this includes Maxiburger staff, despite them being a neutral force).\n  - Putting departmentally issued tools/weapons, including decoy rifles, into green bins falls under this rule as a violation, they are to be placed in red bins.\n- Personnel aiding or abetting TS/CIS/CIV, or otherwise hostile forces, with escaping or accessing unauthorized locations. This includes leaking site operations to hostile forces.\n- Personnel breaking multiple Code of Ethics rules and/or breaking multiple sections of the same rule.\n- Unauthorized personnel in possession of the Nuclear Authentication Disk (NAD) or Nuclear Access Key without any valid reason, or refusing to report discovery of/give it to L5+ Security Personnel.\n- Personnel attempting to terminate multiple other personnel without proper justification.\n- Personnel wearing disguises to break CoE and act as though they were a disguised Test Subject.\n- Personnel causing mass site distress through means of the control room.\n- Personnel intentionally infecting themselves while deployed on a departmental team through a puddle, a specimen chamber or by any other means. (The only exception to this is RAH hybridizing themselves, following their internal regulations)\n- Personnel causing/planning an event to go wrong to instill chaos. (example: deliberate disregard for precaution letting armed, infected, or irradiated subjects run loose.)\n- Any other action the Ethics Committee determines to be of significant damage to the corporation.\n- Violating a **mandatory** suspension. See G2 for more information on mandatory suspensions.\n\nPersonnel determined to have gone rogue are to be punished with a global blacklist upon infraction and are to be logged in the Ethics Committee Roster:\n\n[https://docs.google.com/spreadsheets/d/1p95f9DuNZg3LTULuYZ8AasUpdyh1Cc8Cg0IrdTemML4/edit?gid=1089969201#gid=1089969201](https://docs.google.com/spreadsheets/d/1p95f9DuNZg3LTULuYZ8AasUpdyh1Cc8Cg0IrdTemML4/edit?gid=1089969201#gid=1089969201 \"smartCard-inline\")\n\nPeople who have been found to go rogue on drafted personnel teams are only liable to being globally blacklisted if they otherwise hold a clearance. People who go rogue on drafted teams who do **not** hold clearance will be blacklisted from future draft events. (Also applies to standard infractions.)\n\n(Note: In specific instances punishment may vary based on the consensus of EC)",
+   "idList": "6278016ad203c450e705e196",
+   "name": "Rule F2 | Solicitation & Conspiracy",
+   "pos": 278527,
+   "shortUrl": "https://trello.com/c/wbZ7C5VZ",
+   "attachments": []
+  },
+  {
+   "id": "627eb273b34447881eb7b10f",
+   "closed": true,
+   "dateLastActivity": "2022-05-15T22:32:16.704Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e196",
+   "name": "Rule F2 | Blackmail & Extortion",
+   "pos": 327679,
+   "shortUrl": "https://trello.com/c/Q8LkDtdV",
+   "attachments": []
+  },
+  {
+   "id": "627daa62a9bb496bfd48eaa5",
+   "closed": true,
+   "dateLastActivity": "2022-05-13T00:47:14.331Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e196",
+   "name": "F5 | Corruption",
+   "pos": 393215,
+   "shortUrl": "https://trello.com/c/4muqS5Nr",
+   "attachments": []
+  },
+  {
+   "id": "627eb27f48926a516b79a34b",
+   "closed": true,
+   "dateLastActivity": "2022-05-15T22:32:18.714Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e196",
+   "name": "Rule F3 | Corruption",
+   "pos": 393215,
+   "shortUrl": "https://trello.com/c/ys1s3xZI",
+   "attachments": []
+  },
+  {
+   "id": "627eb2bbaa8493345558b34b",
+   "closed": true,
+   "dateLastActivity": "2022-05-15T22:32:21.032Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e196",
+   "name": "Rule F4 | Obstruction",
+   "pos": 458751,
+   "shortUrl": "https://trello.com/c/21bZDn8G",
+   "attachments": []
+  },
+  {
+   "id": "627eb4a9326ca9046a1171e7",
+   "closed": true,
+   "dateLastActivity": "2022-05-15T22:32:13.663Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e196",
+   "name": "Rule F5| Purposeful Violation",
+   "pos": 524287,
+   "shortUrl": "https://trello.com/c/Lf2W9MZC",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e205",
+   "closed": false,
+   "dateLastActivity": "2022-05-29T04:05:36.009Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e197",
+   "name": "Ethical Practice",
+   "pos": 65535,
+   "shortUrl": "https://trello.com/c/7Zmyicgw",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e209",
+   "closed": true,
+   "dateLastActivity": "2024-05-31T17:34:30.495Z",
+   "desc": "This will be about the warnings from the Ethics Committee for any warning(s), verbal or not, given to you. The EC member who wrote your infraction MUST inform you of the infraction and what you have been infracted for. Ethics personnel must have valid proof for your punishment or you may not be punished.",
+   "idList": "6278016ad203c450e705e197",
+   "name": "G1 | Warnings Regulations",
+   "pos": 81919,
+   "shortUrl": "https://trello.com/c/z7TxRhCU",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e21b",
+   "closed": false,
+   "dateLastActivity": "2025-12-02T08:25:48.193Z",
+   "desc": "In order for you to get your old infraction removed, you must request to see your infractions by an EC personnel by going into the Central Report Hub server and making an EC infraction expungement ticket. You must undergo a Voluntary Suspension to remove your infractions.\n\n( [https://discord.gg/TAJgkwbCMK](https://discord.gg/TAJgkwbCMK \"smartCard-inline\")  )\n\nThe infraction may be removed if:\n\n- The infraction does not have proof.\n- The infraction is 1+ months old and is not unappealable.\n- The infraction had no relevant proof.\n- You did not receive an infraction during the past 30 days you are trying to expunge it in.\n\nNote: B3 and appealable F2 & F1 voluntary suspensions are 48 and 168 hours respectively while all others able to expunged are 24 hours. If you have violated more than one CoE rule in one infraction, the expungement time will stack up, for example C1+A1 = 48 hour suspension.\nPersonnel may only expunge 1 infraction per week, and they may not have gained an infraction in the span of 1 month of the infraction that they are trying to expunge; in addition to this, you must hold at least an L1 clearance or be a LR+ within a GoI to be able to expunge an Infraction. (unless it’s an appealable GBL that you’re expunging)\n\n---\n\n**Regulations about Supervised Deployment:**\n\nIf you are undergoing a voluntary suspension to expunge an infraction then there is a system to allow you to still deploy on your department teams with certain restrictions. You must request to be supervised at all times while deployed by an EC member to monitor your behavior during the time of the voluntary suspension.\n\n- EC Personnel can supervise both Combatants and Non-combatants.\n- The one requesting a supervised deployment must do so ahead of time. EC personnel will meet them at either at EC spawn or their respective department spawn that the individual will deploy as.\n- If the supervisor has been terminated by hostile forces or through other means of harm. The supervised personnel must head back to their spawn or EC spawn unless stated otherwise by the supervisor.\n- If for any reason the supervisor has to leave, immediately swap to Facility Personnel or request for another supervisor to continue your supervised deployment. If none are available, then you must then swap to facility personnel until one is available.\n- EC personnel may not supervise personnel who are on a mandatory suspension.\n\n---\n\n**Validity System**\n\nThis System will be used as a way to determine if the Supervised Deployment is a success or not.\n\n- A warning is given when the personnel being supervised commits one of the acts listed in the warning section.\n- If the personnel being supervised committed a CoE Violation during their supervision, the Supervisor will stop the supervision and infract the personnel. The voluntary suspension will be canceled and the timer will be reset on the ability to perform another expungement.\n- Each warning must show evidence as to what caused them to receive it so that way the supervisor is accountable.\n- If personnel receive more than 2 warnings or commit a CoE violation, the supervised deployment will be canceled the voluntary suspension will be canceled and the timer will be reset on the ability to perform another expungement.\n- If the supervised deployment is successful and has been ongoing for a minimum of an hour, time from the initial suspension period may be removed with a ratio of 6 hours per 60 minutes supervised with a cap of 12 hours total.\n\n---\n\n**Warning Section**\n\nThis section lists possible actions that would count as a warning while under supervised deployment.\n\n1. Faking a hit on someone with any melee weapon or needlessly swinging one.\n2. Breaking any rule in the Code of Ethics\n3. Straying away from the Supervisor without permission.\n4. Unprofessional behavior or being a general annoyance to personnel on site through actions such as spamming the elevator button or throwing items at others",
+   "idList": "6278016ad203c450e705e197",
+   "name": "G1 | Infraction Expungement",
+   "pos": 98303,
+   "shortUrl": "https://trello.com/c/xT5QZmXd",
+   "attachments": []
+  },
+  {
+   "id": "628d0f79c7e03088767239bc",
+   "closed": false,
+   "dateLastActivity": "2026-06-24T01:48:27.299Z",
+   "desc": "#### **Infractions**\n\n- First Infraction: First verbal warning.\n- Second Infraction: First suspension which is 2 days.\n- Third Infraction: Second suspension which is 4 days.\n- Fourth Infraction: Third suspension which is 1 week.\n- Fifth Infraction: Fourth suspension which is 2 weeks.\n- Sixth Infraction: Exiled from department(s), may not rejoin until a week has passed.\n  - Following the week, the user may **not** be reinstated into their department/rank. They are to re-do intake and rank up as if they are starting fresh.\n- Seventh Infraction: Appealable blacklist after 6 weeks.\n- Eighth Infraction: Unappealable blacklist.\n\n[https://docs.google.com/spreadsheets/d/1p95f9DuNZg3LTULuYZ8AasUpdyh1Cc8Cg0IrdTemML4/view#gid=1089969201](https://docs.google.com/spreadsheets/d/1p95f9DuNZg3LTULuYZ8AasUpdyh1Cc8Cg0IrdTemML4/view#gid=1089969201 \"smartCard-inline\")\n\nEverything above is global and applies to all departments the violator is in.\n\nThe EC member who wrote your infraction MUST inform you of the infraction and what you have been infracted for. Ethics personnel must of had valid evidence at the time of posting for your punishment or you may not be punished.\n\nInfractions that were valid at the time of posting are still considered valid even if the evidence expires or is no longer accessible.\n\nNote: A2 infractions carry an additional minimum 1-week suspension in addition to the punishment for the infraction number given, it can range to an exile depending on severity (Example: Heavy sexual references, engagement in the aforementioned…).\n\n---\n\n#### **Warnings**\n\n- Warnings are a reduced punishment if an infraction is deemed too severe for the offense.\n- Warnings never expire and stay on record forever. EC members who issued your warning must inform you of it and what you're being warned for.\n- Warnings cannot be issued for violations of the following sections:  **A2**, **F1**, **F2, and C3** (Only applies to the “Leaked Assets” section.) Violation of those sections is considered a serious offense.\n- If you're a repeated offender (6+ warnings and/or 3+ _active_ infractions on record), the Ethics Committee reserves the right to issue an infraction, instead of a warning, even for minor violations.\n\n---\n\n### Appeals\n\nYou have the right to appeal your infraction if you think the verdict you have been given is wrong. If you wish to submit an appeal, you must open an infraction expungement ticket.\n\n- You may appeal infractions at any time.\n- You must provide all details regarding your infraction if possible.\n- You must provide reasons as to why you believe your infraction should be appealed.\n\n---\n\n### Unappealable Infractions\n\nAn infraction will become entirely impossible to appeal if:\n\n- It is an A2 infraction\n- It is a severe enough F2 infraction. (ex: going rogue)\n- If you have gained 4 infractions in two weeks or less, then all of those are considered unappealable.\n- You have 8 or more active infractions in total.\n- If you have violated your voluntary suspension terms without prior notice of withdrawing, then the infraction you were attempting to expunge will become unappealable for 30 days and will grant a G2 infraction as per the Suspension rules.\n- You constantly appeal infractions and then continue stacking them up, or you have gained 4 infractions in four weeks or less. An Ethics Committee vote may be launched against you to deem your infractions unappealable.\n\n---\n\n### Suspensions\n\n##### **Mandatory Suspensions**\n\nThese suspensions are given according to how many infractions one has. (This is outlines at the top of this section) While on this suspension, there are rules to deployment and are heavy punishments if it is violated;\n\n- If you’re found to have violated a _mandatory_ suspension, your punishment will immediately rise to an exile from all departments and an **appealable global blacklist**.\n- While on mandatory suspension, you **may NOT** have supervised deployment on departmental/GoI teams.\n- While on mandatory suspension, you **may NOT** deploy on any teams (including Test Subject, Civilian, and CIS) EXCEPT for Facility personnel and Administrative Department.\n\n##### **Voluntary Suspension**\n\nThese suspensions are given when one is attempting to expunge their infractions. However there are still rules for deploying even when the suspension is voluntary;\n\n- While on voluntary suspension, you **may have** supervised deployment on departmental/GoI teams.\n- While on voluntary suspension, you **may NOT** deploy on any teams (including Test Subject, Civilian, and CIS) EXCEPT for Facility personnel and Administrative Department UNLESS you have properly requested and are receiving proper supervision. (More information about this in G1)\n- If you are found to be violating a _voluntary_ suspension it will make your infraction (that you were attempting to expunge) un-expungable for another 30 days and will also grant a G2 infraction.\n\n---\n\n#### **Zero Tolerance Policy**\n\nA zero tolerance policy (ZTP) is a period of intensive scrutiny by the ethics committee where receiving an infraction or significant departmental punishment will result in you receiving a global blacklist. They can span from 1 week to 3 months long. They may be implemented for the following reasons:\n\n- When appealing a blacklist.\n- An Ethics Committee vote launched against you to place you on a ZTP.\n\n---\n\n#### **Global Blacklist**\n\nA global blacklist (GBL) is a form of punishment that exiles you from all TSC departments, preventing you from rejoining any of them until it is appealed. You may find yourself on a global blacklist for the following reasons:\n\n- You have 7 infractions (appealable), or 8+ infractions (unappealable).\n- You have gone rogue (e.g.: shooting multiple staff members, running from EC/ISB constantly, and so on). This applies to all corporation teams.\n- Found to be exploiting or otherwise violating serious ROBLOX ToS rules.\n- Violating a mandatory suspension.\n\nWhile globally blacklisted, there are certain rules that apply. This includes;\n\n- You may not join the game on any department/division or personnel teams that have access to personnel equipment such as radios, wands, and anything not normally accessible by TS.\n  - CIS is considered departmental, therefore globally blacklisted users may not join it.\n  - Development teams follow their internal guidelines.\n  - TSE and Maxiburger have the exception where their HiCOMM are allowed to decide whether or not a globally blacklisted user may join.\n- Users who are a part of an External GoI and are Globally blacklisted, may not deploy at all.",
+   "idList": "6278016ad203c450e705e197",
+   "name": "G2 | Baseline Penalty",
+   "pos": 114687,
+   "shortUrl": "https://trello.com/c/P8jVsv6o",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e207",
+   "closed": false,
+   "dateLastActivity": "2022-05-08T17:44:11.417Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Executive Orders",
+   "pos": 65535,
+   "shortUrl": "https://trello.com/c/Az9STq1R",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e211",
+   "closed": true,
+   "dateLastActivity": "2024-10-13T13:23:34.413Z",
+   "desc": "Research and Studies Department personnel are permitted to violate all but the Behavioural Guidelines section (A) of the Code of Ethics  during active testing as long as all combative escorts consent to it and it doesn’t threaten site operations.\n\nAdditionally, RsD is freely permitted to test on personnel with their consent.\nIf a Researcher decides to use personnel, they are to fully abide by their wish to withdraw consent at any time.\n\nIf a section of the Code of Ethics is going to be violated, you must inform everyone present during the first briefing. This is to prevent anyone from being told too late or not told at all, which could lead to miscommunication and infractions, or slowing down the research efforts.\n\nEthics Committee Agents may intervene when it's an actual threatening situation: researcher is risking a breach, cramming infected into a tiny room, etc. Minor mistakes will attempt to be corrected first instead of shutting down the testing and RSD HRs will be contacted.\n\nNote: This exemption only applies to the actual RsD performing the valid testing. RsD personnel will be held liable for Code of Ethics violations if their testing is unauthorized.",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H1 | Testing Exemption",
+   "pos": 131071,
+   "shortUrl": "https://trello.com/c/4VVARm6c",
+   "attachments": []
+  },
+  {
+   "id": "633ddd041cc6c70035604df8",
+   "closed": true,
+   "dateLastActivity": "2024-01-28T22:12:28.690Z",
+   "desc": "In the interest of site security, permissions that are granted to Special Operations in Rule B6 are to be temporarily granted to the Recontainment Unit in addition to permissions they already have until the complete restriction on Special Operations is lifted.\n\nThe permissions in B6 are as follows:\n\n- SD Special Operations may also enter during an on-going system riot or a raid in addition to breaches and lockdowns. Additionally, if armed inmates are using the ventilation while actively being hostile as a means to attack security, SO may enter to deal with that inmate only.",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H2 | Recontainment Unit's Temporary Authorization",
+   "pos": 196607,
+   "shortUrl": "https://trello.com/c/gEcTIlQD",
+   "attachments": []
+  },
+  {
+   "id": "63ae2cd5fd104e02082110b4",
+   "closed": true,
+   "dateLastActivity": "2024-01-28T22:12:30.316Z",
+   "desc": "Due to a common abuse of a seasonal update there will be a temporary addition to the instances in which test subjects and infected may be terminated while cuffed.\n\nThis instance is for when test subjects crawl underneath a **Christmas tree** which makes it impossible to terminate them while underneath it. \n\nSecurity forces are now temporarily authorized to remove subjects and infected from under the Christmas tree with cuffs and terminate them.",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H3 | The Christmas Tree",
+   "pos": 262143,
+   "shortUrl": "https://trello.com/c/geZDKpqS",
+   "attachments": []
+  },
+  {
+   "id": "63beb9e9d7b18a0015fc2e1c",
+   "closed": true,
+   "dateLastActivity": "2023-01-13T08:09:00.374Z",
+   "desc": "As a temporary solution until a dedicated kitchen keycard is created. Test subjects are allowed to freely enter the TSCZ kitchen and cook food as long as they are not hostile to any kitchen staff inside. To ensure this, all test subjects who enter the area are agreeing to be subjected to wanding at any point while inside the kitchen to ensure they have the proper L1 card.\n\n- Any test subject inside with contraband may be terminated.\n- Any test subject inside that has no contraband but also no L1 card may be cuffed outside of the kitchen.\n\n‌",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H4 | The Kitchen",
+   "pos": 327679,
+   "shortUrl": "https://trello.com/c/bpZtwd4h",
+   "attachments": []
+  },
+  {
+   "id": "63dad63f1f5dd7c9447089fc",
+   "closed": true,
+   "dateLastActivity": "2024-01-28T22:24:02.888Z",
+   "desc": "As per request of ISB, the threshold to terminate subjects with a bounty of 1,500 credits or greater as stated in Rule D1 will be granted a special exception.\n\nISB agents engaging in bounty hunting may terminate any subject with any amount of accumulated bounty posted at this time.",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H4 | Bounty Hunting",
+   "pos": 327679,
+   "shortUrl": "https://trello.com/c/GfpfbhEs",
+   "attachments": []
+  },
+  {
+   "id": "64014f6af1211d08d52b0a74",
+   "closed": false,
+   "dateLastActivity": "2023-05-05T12:22:46.696Z",
+   "desc": "Personnel with a clearance level of 3 or higher within the department they are currently deployed as may operate the train system freely. The exception to this is U&M Engineers, Recon Operatives, and EC Junior Board Agents being able to operate the train system freely as well.\n\nOperating the train without the correct clearance or exception to do so would be in violation of Rule B1.\n\nWhile operating the train system you must not deliberately crash the train or recklessly operate it at speeds where it is likely to crash, or intentionally run personnel over with the train. Doing so will be in violation of Rule B3 or C1 respectively.",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H5 | Train Operation",
+   "pos": 393215,
+   "shortUrl": "https://trello.com/c/oX3dY3xB",
+   "attachments": []
+  },
+  {
+   "id": "641a141984cebee4766fee5f",
+   "closed": true,
+   "dateLastActivity": "2024-01-28T22:38:59.166Z",
+   "desc": "All personnel have at their disposal a handheld radio, which can be used to effectively communicate with other personnel at longer ranges and give out callouts for dangerous situations or anything in general.\n\nDue to these portable radios being very valuable for communication, they have set rules when it come to using them, which can be found below.\n\nWhen using radios, you are expected to follow all TSC and ToS rules, breaking them will warrant an infraction like normal.\n\nRadios also have their own set of rules:\n\n- You may not spam the radios with unnecessary messages\n- You may not use the ping feature ( ex. \\@‌everyone ) for unnecessary things. This is reserved for important messages only. How the ping feature works is if you very specifically type out a teams name, it makes your text yellow for them. Example: “ \\@Recontainment Unit There is a breach in S2 “ would be yellow for RECON, allowing them to see it easier.\n- You may not provide misinformation or lies on the radio, if you are unsure about something make sure to state so.\n\nThere are also certain channels available for certain departments. You may only use said channels for their designed purpose.\n\nCombative channels are to speak about emergencies, callouts, site state, etc.\n\nStaff channels are there to just communicate with eachother.\n\nGlobal channel is a channel where you can speak about anything.\n\n**IF THE RADIOS ARE BROKEN AND CHANNELS DON’T WORK PROPERLY, YOU MAY IGNORE THE PART ABOVE.**",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H6 | Radio Regulations",
+   "pos": 458751,
+   "shortUrl": "https://trello.com/c/UarFpq41",
+   "attachments": []
+  },
+  {
+   "id": "64417fa9e1b173df22989ad8",
+   "closed": true,
+   "dateLastActivity": "2024-01-28T22:29:19.446Z",
+   "desc": "As per request of the Medical Department, medical equipment (Splint, Tourniquet, etc), with the exception of the disinfectant, will now count as contraband. The rules are as follow:\n\n- Personnel may not possess medical equipment.\n- Personnel are required to dispose of or hand over medical equipment to the nearest medical personnel.\n- Personnel may use medical equipment as necessary only when no MD are available nearby, otherwise they must resort to being treated by the medical personnel or the medical staff NPCs.",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H7 | Medical Equipment",
+   "pos": 524287,
+   "shortUrl": "https://trello.com/c/1tbMoT0f",
+   "attachments": []
+  },
+  {
+   "id": "64a3d4a9a611d82a2c96475d",
+   "closed": true,
+   "dateLastActivity": "2024-06-11T16:57:58.245Z",
+   "desc": "All members of the Medical Department ranked Nurse+ are permitted to enter combat zones at their own risk to assist Security personnel through healing and recovery with the understanding that they should remain behind Security as to not get in the way.\n\n- They may also remain outside of panic shelters at their own risk in order to actively support security personnel on all code levels.\n- They may enter areas they normally are not allowed to enter due to their security clearance or non-combatant status as long as they are actively supporting Security personnel with the exception of Sector 4 and Unit 4.\n- They may also accompany patrols of Security personnel throughout the facility in order to be readily available to provide aid only when necessary.\n\nNote: This is a temporary exemption as a test.",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H8 | Medical Personnel Exemption",
+   "pos": 589823,
+   "shortUrl": "https://trello.com/c/URfvI901",
+   "attachments": []
+  },
+  {
+   "id": "6659fe99acc1373c6346a295",
+   "closed": false,
+   "dateLastActivity": "2025-08-14T22:21:57.673Z",
+   "desc": "All non-combatants (except for RAH unpaired assets) are allowed to carry the AR15/M16 and SPAS-12, acquired from either the SD armory or Armed & Dangerous. Non-combatants do not require a permit for these weapons, but still may not carry other weaponry without a permit.\n\n- Contained Infected Personnel (CIP) with over 200 health are allowed to carry Pistols corresponding to your Firearm Permit rank and you are NOT allowed to grab the AR15/M16 or SPAS-12.\n\nNon-combatants may fire at any hostiles shooting at any other personnel, including combatants.\nNon-combatants are still NOT allowed to engage in active combat or chase after hostiles. Self defense regulations still apply.",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H9 | 2nd Amendment Rights",
+   "pos": 655359,
+   "shortUrl": "https://trello.com/c/J3OPHVLy",
+   "attachments": []
+  },
+  {
+   "id": "66b28d665b37c0b9519dbb35",
+   "closed": false,
+   "dateLastActivity": "2025-12-22T06:35:58.316Z",
+   "desc": "\nOn Blue+, Any Semi and Full combative team may grab any SD weapon. Except for the M4 and grenades. (ISB, IOS, TTS, BP). Semi combatives are also considered full combatives during this time.\n\n- Internal regulations/CoE are to be followed still with other throwables. (Flashbangs, molotovs, etc.)\n- SD are to still follow rules regarding M4 and grenade usage.\n  Any Semi and Full combative team are immediately dispatched to help the site regain stability, voiding their additional duties. (CM, TTS, ISB, BP, IOS, RAH paired or unpaired). JU and RAH are only to be deployed during Red+ and they must undeploy immediately upon the EoP being lowered.\n\nNotice H10 may only be activated in specific circumstances such as:\n\n- A Mass Rogue party committing to major site instability\n- A major security force going offline or any other circumstances when deemed necessary by AD.\n  This will only go in effect with the authorization from both Ethics and Security Head.\n  The start and end of the protocol is to be announced on the site-wide PA.\n  _[ ATTENTION ALL PERSONNEL, STATE OF SIEGE HAS BEEN DECLARED. FOLLOW ANY COMBATIVE ORDER. GLORY TO THE CORPORATION. ]_",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H10 | State of Siege",
+   "pos": 720895,
+   "shortUrl": "https://trello.com/c/pvF4qpzB",
+   "attachments": []
+  },
+  {
+   "id": "66b236d16d2758b201cc7ef9",
+   "closed": true,
+   "dateLastActivity": "2024-08-06T14:46:26.464Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H10 | Martial Law",
+   "pos": 720895,
+   "shortUrl": "https://trello.com/c/8sYG2KBP",
+   "attachments": []
+  },
+  {
+   "id": "670bc8227cfc327eaac31f1e",
+   "closed": true,
+   "dateLastActivity": "2024-11-30T15:39:34.149Z",
+   "desc": "As per the order of the Site Administrator, combatants are authorized to terminate anyone wearing leaked Thunder Scientific Corporation assets and _actively attempting_ to mimic the infected, regardless of whether they are test subjects or personnel.\n\n**This order applies strictly to leaked infected assets.** Any other accessory does not justify termination. In cases where someone is wrongfully terminated, the terminating individual will face consequences.",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H12 | Cease and Desist",
+   "pos": 737279,
+   "shortUrl": "https://trello.com/c/RXdulBde",
+   "attachments": []
+  },
+  {
+   "id": "6721a461e2f682512c798c7e",
+   "closed": true,
+   "dateLastActivity": "2024-11-03T06:36:07.418Z",
+   "desc": "I’m gonna make this short and sweet, this is me quitting, forever! I actually like TSC so I won’t cause any damage but I’m putting this here for the people who need it. If you have the power to delete this Executive Order than please wait at least 24hrs so people can spread the word. This is my final request before I leave\n\n---\n\nIf you’re struggling in real life or in TSC please rethink your stance in this game, like seriously, I’ve seen so many people including myself get worried and stressed over this game, some people even go to the brink of giving up over some stupid online community which you probably don’t even know or will know irl, most people in TSC only joined because they were bored or depressed, leading them to mindlessly rank up in a never ending cycle.\nIf you’re struggling mentally or physically focus on your real life instead of this game, it’s unhealthy and I can relate. Drop it when you can and stop investing so much time into it\n\nSomeone came to me a while ago really stressed out about this and another community, to the point they heavily blamed themselves for minor mistakes they made which me and them would have passed over in any other situation. I asked them if _they’re even having fun_ in this game and they couldn't answer, yet they still continued, this game is a trap and the only way to let yourself go is to understand why you’re here, why you need to leave, and to work on yourself in the real world instead of clocking onto some fake roblox cooperation\n\nREAL LIFE IS MORE IMPORTANT\n\nSo please just leave if you’re struggling. Don’t hesitate like I did\n\n---\n\nIf you’re some of the people who have a good balance of TSC and real life then please continue by all means, I do agree larping isn’t a great way to spend you time but it isn’t harmful by nature, the only reason it’s become bad is because of how much people play and why they play.\n\n---\n\nAlso if you’re struggling with mental health don’t be afraid to let someone know, some people I trust a lot are EC command, if you DM them I can guarantee that you’ll be able to let some stress out. ISB can also be helpful but it depends who you ask, some people in there actually suck\n\nNow. In case I don't see you, good morning, good afternoon and good night, o7 and god speed TSC",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H13 | The Good Ending 😇",
+   "pos": 753663,
+   "shortUrl": "https://trello.com/c/YZsl0hpt",
+   "attachments": []
+  },
+  {
+   "id": "66ba80f6ebb3e5bad7f43696",
+   "closed": true,
+   "dateLastActivity": "2024-08-28T19:04:18.634Z",
+   "desc": "As a minor experimental change to the Code of Ethics the following rule is void for the duration of this executive order:\n\n“For the safety of site personnel, only mixtures that do not cause death may be made with the blender and consumed outside of testing purposes. (Such as Ultimate Coffee, Metal Shrapnel, or Uranium).”\n\nThis executive order will stay in affect for 14 days and if no major incident or complaint occur, it will be officially removed from the Code of Ethics. If the rule creates enough contention the existing rule may be only scaled back or left in place.",
+   "idList": "6278016ad203c450e705e198",
+   "name": "Notice H11 | Blended Lethal Drinks Experimental Change",
+   "pos": 786431,
+   "shortUrl": "https://trello.com/c/FHjDaWpl",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e20f",
+   "closed": false,
+   "dateLastActivity": "2022-05-08T17:44:11.379Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e199",
+   "name": "Code Approval & Validation",
+   "pos": 65535,
+   "shortUrl": "https://trello.com/c/cp8ZZahR",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e22f",
+   "closed": false,
+   "dateLastActivity": "2022-05-08T17:44:12.047Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e199",
+   "name": "CEO of Thunder Scientific Corporation",
+   "pos": 131071,
+   "shortUrl": "https://trello.com/c/kPTcNgyK",
+   "attachments": [
+    {
+     "id": "6278016bd203c450e705e46e",
+     "bytes": 102601,
+     "mimeType": "image/png",
+     "name": "falling_sig.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e22f/attachments/6278016bd203c450e705e46e/download/falling_sig.png"
+    }
+   ]
+  },
+  {
+   "id": "6278016ad203c450e705e233",
+   "closed": false,
+   "dateLastActivity": "2026-05-17T06:02:14.178Z",
+   "desc": "🦈",
+   "idList": "6278016ad203c450e705e199",
+   "name": "Overseer of The Ethics Committee",
+   "pos": 163839,
+   "shortUrl": "https://trello.com/c/IYoFvOyP",
+   "attachments": [
+    {
+     "id": "62ccde43e7fbb708534131ab",
+     "bytes": 10083,
+     "mimeType": "image/png",
+     "name": "sig.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e233/attachments/62ccde43e7fbb708534131ab/download/sig.png"
+    },
+    {
+     "id": "669b28beb20b7fbcf085a00e",
+     "bytes": 26798,
+     "mimeType": "image/png",
+     "name": "m3rd.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e233/attachments/669b28beb20b7fbcf085a00e/download/m3rd.png"
+    },
+    {
+     "id": "67e299083af3db8315dd2440",
+     "bytes": 112516,
+     "mimeType": "image/png",
+     "name": "photo.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e233/attachments/67e299083af3db8315dd2440/download/photo.png"
+    },
+    {
+     "id": "69423b766abbf21f65fc6801",
+     "bytes": 16110,
+     "mimeType": "image/png",
+     "name": "unnamed.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e233/attachments/69423b766abbf21f65fc6801/download/unnamed.png"
+    },
+    {
+     "id": "6a0959e2a2fa46520ee53eb5",
+     "bytes": 3993,
+     "mimeType": "image/png",
+     "name": "text-1778997715693.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e233/attachments/6a0959e2a2fa46520ee53eb5/download/text-1778997715693.png"
+    }
+   ]
+  },
+  {
+   "id": "6278016ad203c450e705e231",
+   "closed": true,
+   "dateLastActivity": "2022-06-23T02:05:22.999Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e199",
+   "name": "Administrative Director",
+   "pos": 196607,
+   "shortUrl": "https://trello.com/c/YG8gKZN2",
+   "attachments": [
+    {
+     "id": "6278016bd203c450e705e477",
+     "bytes": 2628,
+     "mimeType": "image/png",
+     "name": "anti_sig_AD.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e231/attachments/6278016bd203c450e705e477/download/anti_sig_AD.png"
+    }
+   ]
+  },
+  {
+   "id": "6278016ad203c450e705e235",
+   "closed": true,
+   "dateLastActivity": "2022-06-23T02:05:26.189Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e199",
+   "name": "Lead Professor of Scientific Research and Studies",
+   "pos": 327679,
+   "shortUrl": "https://trello.com/c/ZmaC3eAr",
+   "attachments": [
+    {
+     "id": "6278016bd203c450e705e487",
+     "bytes": 2618,
+     "mimeType": "image/png",
+     "name": "anti_sig_ScD.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e235/attachments/6278016bd203c450e705e487/download/anti_sig_ScD.png"
+    }
+   ]
+  },
+  {
+   "id": "6278016ad203c450e705e237",
+   "closed": false,
+   "dateLastActivity": "2026-05-18T23:22:59.462Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e199",
+   "name": "Director of Intelligence and Information",
+   "pos": 393215,
+   "shortUrl": "https://trello.com/c/GS3vjVvR",
+   "attachments": [
+    {
+     "id": "64c5fd3d1468d03265c337e6",
+     "bytes": 11695,
+     "mimeType": "image/png",
+     "name": "signature_5.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e237/attachments/64c5fd3d1468d03265c337e6/download/signature_5.png"
+    },
+    {
+     "id": "653ee6ea945f59aeba5db49d",
+     "bytes": 40723,
+     "mimeType": "image/png",
+     "name": "NotMox-Signature.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e237/attachments/653ee6ea945f59aeba5db49d/download/NotMox-Signature.png"
+    },
+    {
+     "id": "65da773a68532ee63503f469",
+     "bytes": 193593,
+     "mimeType": "image/png",
+     "name": "5x.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e237/attachments/65da773a68532ee63503f469/download/5x.png"
+    },
+    {
+     "id": "678c394f43caa30f53027cd8",
+     "bytes": 50966,
+     "mimeType": "image/png",
+     "name": "sillyage.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e237/attachments/678c394f43caa30f53027cd8/download/sillyage.png"
+    },
+    {
+     "id": "678c395864731b3847b86166",
+     "bytes": 7532,
+     "mimeType": "image/png",
+     "name": "nimblenyx signature.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e237/attachments/678c395864731b3847b86166/download/nimblenyx_signature.png"
+    },
+    {
+     "id": "6a0b9f52c0963a5a9cc1c428",
+     "bytes": 179188,
+     "mimeType": "image/png",
+     "name": "image_2026-05-19_092256663.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e237/attachments/6a0b9f52c0963a5a9cc1c428/download/image_2026-05-19_092256663.png"
+    }
+   ]
+  },
+  {
+   "id": "62d0a0e2e140fd80d16dc68e",
+   "closed": false,
+   "dateLastActivity": "2025-08-25T02:32:26.952Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e199",
+   "name": "Director of Site Security Forces",
+   "pos": 425983,
+   "shortUrl": "https://trello.com/c/PhKh9eCd",
+   "attachments": [
+    {
+     "id": "669953e1e8a684882e5b2164",
+     "bytes": 3622,
+     "mimeType": "image/png",
+     "name": "Fizco.png",
+     "url": "https://trello.com/1/cards/62d0a0e2e140fd80d16dc68e/attachments/669953e1e8a684882e5b2164/download/Fizco.png"
+    }
+   ]
+  },
+  {
+   "id": "62d09dad8480630976f138fe",
+   "closed": false,
+   "dateLastActivity": "2026-04-21T23:56:26.127Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e199",
+   "name": "Head of Research and Studies",
+   "pos": 458751,
+   "shortUrl": "https://trello.com/c/kQe4W0wi",
+   "attachments": [
+    {
+     "id": "669a886d9849dd6b70e49b02",
+     "bytes": 20559,
+     "mimeType": "image/png",
+     "name": "nikola.png",
+     "url": "https://trello.com/1/cards/62d09dad8480630976f138fe/attachments/669a886d9849dd6b70e49b02/download/nikola.png"
+    },
+    {
+     "id": "69e80ea54bf69deec92dd760",
+     "bytes": 2909,
+     "mimeType": "image/png",
+     "name": "image_2026-04-21_195619972.png",
+     "url": "https://trello.com/1/cards/62d09dad8480630976f138fe/attachments/69e80ea54bf69deec92dd760/download/image_2026-04-21_195619972.png"
+    }
+   ]
+  },
+  {
+   "id": "6278016ad203c450e705e239",
+   "closed": true,
+   "dateLastActivity": "2022-06-23T02:05:30.663Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e199",
+   "name": "Head Commander of Security",
+   "pos": 458751,
+   "shortUrl": "https://trello.com/c/M61UZaR6",
+   "attachments": [
+    {
+     "id": "6278016bd203c450e705e498",
+     "bytes": 3384,
+     "mimeType": "image/png",
+     "name": "max_sig_2.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e239/attachments/6278016bd203c450e705e498/download/max_sig_2.png"
+    }
+   ]
+  },
+  {
+   "id": "6278016ad203c450e705e23b",
+   "closed": false,
+   "dateLastActivity": "2023-10-29T23:10:45.007Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e199",
+   "name": "Director of Health and Wellness",
+   "pos": 524287,
+   "shortUrl": "https://trello.com/c/v1HeP0mN",
+   "attachments": [
+    {
+     "id": "6278016bd203c450e705e4a0",
+     "bytes": 20884,
+     "mimeType": "image/png",
+     "name": "Doggo_sig.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e23b/attachments/6278016bd203c450e705e4a0/download/Doggo_sig.png"
+    },
+    {
+     "id": "653ee672c6fe7c953a304074",
+     "bytes": 107201,
+     "mimeType": "image/png",
+     "name": "Nost.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e23b/attachments/653ee672c6fe7c953a304074/download/Nost.png"
+    }
+   ]
+  },
+  {
+   "id": "6278016ad203c450e705e23d",
+   "closed": false,
+   "dateLastActivity": "2026-04-21T02:35:36.602Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e199",
+   "name": "Director of Sanitation and Maintenance",
+   "pos": 589823,
+   "shortUrl": "https://trello.com/c/pYaZKKAj",
+   "attachments": [
+    {
+     "id": "6372e92afdae8100752df91a",
+     "bytes": 10284,
+     "mimeType": "image/png",
+     "name": "purovers.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e23d/attachments/6372e92afdae8100752df91a/download/purovers.png"
+    },
+    {
+     "id": "69e6e273abc3696af0881afc",
+     "bytes": 13356,
+     "mimeType": "image/png",
+     "name": "image_2026-04-20_223530812.png",
+     "url": "https://trello.com/1/cards/6278016ad203c450e705e23d/attachments/69e6e273abc3696af0881afc/download/image_2026-04-20_223530812.png"
+    }
+   ]
+  },
+  {
+   "id": "6372e4364f4e10014ea162c0",
+   "closed": true,
+   "dateLastActivity": "2023-10-29T23:10:57.455Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e199",
+   "name": "Board Overseer of External Relations",
+   "pos": 655359,
+   "shortUrl": "https://trello.com/c/C5KIdEzS",
+   "attachments": [
+    {
+     "id": "6372e441bc5ec1035f43dd9b",
+     "bytes": 7694,
+     "mimeType": "image/png",
+     "name": "Lan.png",
+     "url": "https://trello.com/1/cards/6372e4364f4e10014ea162c0/attachments/6372e441bc5ec1035f43dd9b/download/Lan.png"
+    }
+   ]
+  },
+  {
+   "id": "6278016ad203c450e705e20b",
+   "closed": false,
+   "dateLastActivity": "2022-05-08T17:44:11.389Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e19a",
+   "name": "Ethics Committee Orientation",
+   "pos": 65535,
+   "shortUrl": "https://trello.com/c/oQOfS91N",
+   "attachments": []
+  },
+  {
+   "id": "6278016ad203c450e705e1eb",
+   "closed": false,
+   "dateLastActivity": "2022-05-08T17:44:11.575Z",
+   "desc": "",
+   "idList": "6278016ad203c450e705e19a",
+   "name": "WIP",
+   "pos": 131071,
+   "shortUrl": "https://trello.com/c/x97oq8dn",
+   "attachments": []
+  }
+ ]
+}
