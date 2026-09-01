@@ -1,7 +1,8 @@
-name: Site
+# Reusable build. Not triggered directly — called by pr.yml and deploy.yml.
+name: Build site
 
 on:
-  pull_request:
+  workflow_call:
 
 permissions:
   contents: read
@@ -10,9 +11,6 @@ jobs:
   build:
     name: Build
     runs-on: self-hosted
-    concurrency:
-      group: site-${{ github.ref }}-build
-      cancel-in-progress: true
     steps:
       - uses: actions/checkout@v5
 
@@ -32,24 +30,6 @@ jobs:
         run: npm run build
 
       - name: Upload site
-        if: github.ref == 'refs/heads/main' && github.event_name == 'push'
         uses: actions/upload-pages-artifact@v5
         with:
           path: website/build
-
-  deploy:
-    name: Deploy to Pages
-    if: github.ref == 'refs/heads/main' && github.event_name == 'push'
-    needs: build
-    runs-on: self-hosted
-    concurrency:
-      group: site-${{ github.ref }}-deploy
-    permissions:
-      pages: write
-      id-token: write
-    environment:
-      name: github-pages
-      url: ${{ steps.deployment.outputs.page_url }}
-    steps:
-      - id: deployment
-        uses: actions/deploy-pages@v5
