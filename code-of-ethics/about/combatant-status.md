@@ -8,7 +8,7 @@ The purpose of this section is to serve as information regarding the combatant s
 
 The following sections will explain all positions which personnel are assigned when deployed on a specific team or department. Any exceptions for subdivisions (like the Technical Task Squad) will be listed and explained in detail in this section as well.
 
-**Combatant**
+## Combatant
 
 All personnel which possess the status of being a combatant are site security personnel and are expected to respond to any and all threats on-site to protect civil personnel. They may engage hostiles freely as long as the criteria is met to do so.
 
@@ -23,7 +23,7 @@ The following list of departments, Groups of Interest are deemed Combatant:
 - Special Operations
 - Juggernaut Unit
 
-**Semi-Combatant**
+## Semi-Combatant
 
 All personnel which possess the status of being a Semi-Combative are defensive personnel which only engage hostiles in protection of others and themselves. This status is mostly given to intelligence personnel.
 
@@ -42,7 +42,7 @@ The following list of departments, Groups of Interest are deemed Semi-Combatants
 
 Semi-combatants may not participate in hostile raids. (Unless the department/division has gotten permission from the hostile group to engage in raids.)
 
-**Non-Combatant**
+## Non-Combatant
 
 All personnel which possess the status of being a non-combatant are civil personnel which may only engage hostiles for self-defense of themselves or other non-combatant personnel as stated in section B3 of the Code of Ethics.
 
