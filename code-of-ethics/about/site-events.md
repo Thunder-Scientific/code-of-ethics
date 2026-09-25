@@ -6,7 +6,7 @@ sidebar_position: 3
 
 Several civil departments have been authorized to perform a Site Event as part of their departmental duties. These events are largely regulated by their respective department and typically involve a controlled event that interacts with at least 1 subject or site personnel. Event hosts are offered certain authority while conducting a Site Event as per section E in order to aide them in a successfully completed event. Mass events may have multiple hosts.
 
-### **Internal Departments and their Site Events**
+## **Internal Departments and their Site Events**
 
 - Research & Studies Department
   - Scientific testing events on subjects and/or personnel
